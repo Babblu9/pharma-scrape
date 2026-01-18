@@ -1,7 +1,7 @@
-const fs = require('fs');
-const { chromium } = require('playwright');
-const mongoose = require('mongoose');
-const Medicine = require('./models/Medicine'); // Import Schema
+import fs from 'fs';
+import { chromium } from 'playwright';
+import mongoose from 'mongoose';
+import Medicine from './models/Medicine.js'; // Import Schema
 
 // CONFIG
 const SOURCE_FILE = './medicines_letters_B_to_Z.json';

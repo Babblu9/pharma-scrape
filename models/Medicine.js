@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const SafetyAdviceSchema = new mongoose.Schema({
     status: { type: String, default: "UNKNOWN" },
@@ -76,4 +76,4 @@ const MedicineSchema = new mongoose.Schema({
 // Create index on URL for fast upserts
 MedicineSchema.index({ url: 1 });
 
-module.exports = mongoose.model('Medicine', MedicineSchema);
+export default mongoose.model('Medicine', MedicineSchema);
