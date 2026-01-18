@@ -218,7 +218,7 @@ async function enrichMedicines() {
                         common: getSectionList('Common side effects of')
                     },
                     howToUse: getSectionContent('How to use'),
-                    howItWorks: getSectionContent('How it works') || getSectionContent('How'),
+                    howItWorks: getSectionContent('works'), // Matches "How <Name> works"
                     safetyAdvice: getSafetyAdvice(),
                     missedDose: getMissedDose(),
                     substitutes: getSubstitutes(),
