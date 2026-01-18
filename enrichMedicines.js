@@ -93,7 +93,7 @@ async function enrichMedicines() {
             const details = await page.evaluate(() => {
                 const getSectionContent = (headerText) => {
                     const headers = Array.from(document.querySelectorAll('h2, h3, h4, div[class*="title"]'));
-                    const header = headers.find(h => h.innerText.trim().toUpperCase() === headerText.toUpperCase());
+                    const header = headers.find(h => h.innerText.trim().toUpperCase().includes(headerText.toUpperCase()));
                     if (header) {
                         let content = header.nextElementSibling;
                         if (content && content.innerText.trim()) return content.innerText.trim();
@@ -107,7 +107,7 @@ async function enrichMedicines() {
 
                 const getSectionList = (headerText) => {
                     const headers = Array.from(document.querySelectorAll('h2, h3, h4, div[class*="title"]'));
-                    const header = headers.find(h => h.innerText.trim().toUpperCase() === headerText.toUpperCase());
+                    const header = headers.find(h => h.innerText.trim().toUpperCase().includes(headerText.toUpperCase()));
                     if (header) {
                         let container = header.parentElement;
                         let listItems = [];
@@ -218,7 +218,7 @@ async function enrichMedicines() {
                         common: getSectionList('Common side effects of')
                     },
                     howToUse: getSectionContent('How to use'),
-                    howItWorks: getSectionContent('How') && getSectionContent('How').toLowerCase().includes('works') ? getSectionContent('How') : getSectionContent('How it works'),
+                    howItWorks: getSectionContent('How it works') || getSectionContent('How'),
                     safetyAdvice: getSafetyAdvice(),
                     missedDose: getMissedDose(),
                     substitutes: getSubstitutes(),
