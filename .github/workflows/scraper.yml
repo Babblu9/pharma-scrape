@@ -30,6 +30,8 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Run Scraper
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
         run: node enrichMedicines.js
 
       - name: Commit and Push Changes
