@@ -1,15 +1,15 @@
 const fs = require('fs');
 const { chromium } = require('playwright');
-const { MongoClient } = require('mongodb');
+const mongoose = require('mongoose');
+const Medicine = require('./models/Medicine'); // Import Schema
 
 // CONFIG
 const SOURCE_FILE = './medicines_letters_B_to_Z.json';
 const BATCH_SIZE = 50; // Reduced batch size for safety with DB writes
 const MONGO_URI = process.env.MONGODB_URI || "mongodb://localhost:27017/medicine_db";
-const COLLECTION_NAME = "medicines";
 
 async function enrichMedicines() {
-    console.log("🚀 Starting Medicine Enrichment with MongoDB...");
+    console.log("🚀 Starting Medicine Enrichment with Mongoose...");
 
     // 1. Load Source Data
     let sourceData = [];
@@ -39,24 +39,18 @@ async function enrichMedicines() {
         return;
     }
 
-    // 2. Connect to MongoDB
-    let client;
+    // 2. Connect to Mongoose
     try {
-        client = new MongoClient(MONGO_URI);
-        await client.connect();
-        console.log("✅ Connected to MongoDB");
+        await mongoose.connect(MONGO_URI);
+        console.log("✅ Connected to MongoDB via Mongoose");
     } catch (e) {
         console.error("❌ MongoDB Connection Failed:", e);
         return;
     }
 
-    const db = client.db();
-    const collection = db.collection(COLLECTION_NAME);
-
     // 3. Filter Items (Resume Logic using DB)
-    // Fetch specifically the URLs that are already marked as 'enriched' or have details
-    // Assuming if it has 'introduction', it's done. Or just check existence.
-    const existingDocs = await collection.find({}, { projection: { url: 1 } }).toArray();
+    // Fetch URLs of already enriched medicines
+    const existingDocs = await Medicine.find({}, { url: 1 }).lean();
     const processedUrls = new Set(existingDocs.map(d => d.url));
 
     const toProcess = sourceData.filter(m => !processedUrls.has(m.url));
@@ -65,7 +59,7 @@ async function enrichMedicines() {
 
     if (toProcess.length === 0) {
         console.log("✅ All medicines have been enriched!");
-        await client.close();
+        await mongoose.connection.close();
         return;
     }
 
@@ -123,9 +117,7 @@ async function enrichMedicines() {
                         if (listItems.length === 0 && container.nextElementSibling) {
                             listItems = Array.from(container.nextElementSibling.querySelectorAll('li'));
                         }
-                        if (listItems.length > 0) {
-                            return listItems.map(li => li.innerText.trim());
-                        }
+                        return listItems.map(li => li.innerText.trim());
                     }
                     return [];
                 };
@@ -149,7 +141,7 @@ async function enrichMedicines() {
                         const details = detailsEl ? detailsEl.innerText.trim() : '';
                         const validKeys = ['alcohol', 'pregnancy', 'breastfeeding', 'driving', 'kidney', 'liver'];
                         if (validKeys.includes(key)) {
-                            set[key] = { status: status, details: details };
+                            set[key] = { status, details };
                         }
                     });
                     return set;
@@ -199,9 +191,7 @@ async function enrichMedicines() {
                     let container = header.parentElement.nextElementSibling;
                     if (container) {
                         const slides = Array.from(container.querySelectorAll('.slick-slide:not(.slick-cloned)'));
-                        if (slides.length > 0) {
-                            return slides.map(slide => slide.innerText.trim());
-                        }
+                        if (slides.length > 0) return slides.map(slide => slide.innerText.trim());
                         return [container.innerText.trim()];
                     }
                     return [];
@@ -243,30 +233,28 @@ async function enrichMedicines() {
                 };
             });
 
-            // Merge and Upsert to MongoDB
-            const enrichedMed = { ...med, ...details, lastUpdated: new Date() }; // Date object for Mongo
-
-            await collection.updateOne(
+            // Upsert (Insert if new, Update if exists)
+            await Medicine.findOneAndUpdate(
                 { url: med.url },
-                { $set: enrichedMed },
-                { upsert: true }
+                { $set: { ...med, ...details, lastUpdated: new Date() } },
+                { upsert: true, new: true }
             );
 
-            console.log(`   ✅ Saves to DB`);
+            console.log(`   ✅ Saved to Mongoose DB`);
             // await page.waitForTimeout(2000 + Math.random() * 3000); // Politeness delay
 
         } catch (error) {
             console.error(`   ❌ Failed to enrich ${med.url}: ${error.message}`);
-            await collection.updateOne(
+            await Medicine.findOneAndUpdate(
                 { url: med.url },
                 { $set: { ...med, parsingError: error.message, lastUpdated: new Date() } },
-                { upsert: true }
+                { upsert: true, new: true }
             );
         }
     }
 
     await browser.close();
-    await client.close();
+    await mongoose.connection.close();
     console.log("🏁 Batch processing complete.");
 }
 
