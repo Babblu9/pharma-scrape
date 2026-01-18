@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Output files
+products.json
+products_complete.json
+search_products.json
+product_details_sample.json
+search_results_sample.json
+*.csv
+images/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Playwright
+playwright-report/
+test-results/

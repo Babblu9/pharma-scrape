@@ -1,0 +1,39 @@
+name: Medicine Scraper
+
+on:
+  workflow_dispatch: # Allows manual trigger
+  schedule:
+    - cron: '0 */4 * * *' # Runs every 4 hours
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300 # Limit to 5 hours (Github max is 6)
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Scraper
+        run: node enrichMedicines.js
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Scraper update: enriched more medicines"
+          file_pattern: 'medicines_enriched.json'

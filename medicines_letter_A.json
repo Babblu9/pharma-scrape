@@ -1,0 +1,328 @@
+{
+  "scrapedAt": "2026-01-17T16:54:45.769Z",
+  "letter": "A",
+  "pagesScraped": 1,
+  "totalMedicines": 40,
+  "medicines": [
+    {
+      "id": 1,
+      "name": "हिंदी",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/hi/drugs/actorise-40-injection-227647"
+    },
+    {
+      "id": 2,
+      "name": "Dargen 40 Injection",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/drugs/dargen-40-injection-138252"
+    },
+    {
+      "id": 3,
+      "name": "Cresp 40 Injection",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/drugs/cresp-40-injection-7566"
+    },
+    {
+      "id": 4,
+      "name": "Darbelife 40mcg Pfs Injection",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/drugs/darbelife-40mcg-pfs-injection-341863"
+    },
+    {
+      "id": 5,
+      "name": "Darbosis 40 Injection",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/drugs/darbosis-40-injection-393349"
+    },
+    {
+      "id": 6,
+      "name": "Zynesp 40 Injection",
+      "formula": "N/A",
+      "price": "",
+      "image": "",
+      "url": "https://www.1mg.com/drugs/zynesp-40-injection-394016"
+    },
+    {
+      "id": 7,
+      "name": "Available alternative with same salt composition",
+      "formula": "N/A",
+      "price": "",
+      "image": "https://onemg.gumlet.io/marketing/b1e200c1-686c-4378-93b8-ba13e0c184e9.png",
+      "url": "https://www.1mg.com/drugs/dargen-40-injection-138252"
+    },
+    {
+      "id": 8,
+      "name": "Dargen 40 Injection",
+      "formula": "N/A",
+      "price": "3068",
+      "image": "https://onemg.gumlet.io/marketing/c3b5fa13-2d93-4555-99b8-a6df8d578304.png",
+      "url": "https://www.1mg.com/drugs/dargen-40-injection-138252"
+    },
+    {
+      "id": 9,
+      "name": "ADD",
+      "formula": "N/A",
+      "price": "",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rn3fq0hbj1vwz1z71qvl.png",
+      "url": "https://www.1mg.com/drugs/dargen-40-injection-138252"
+    },
+    {
+      "id": 10,
+      "name": "Alkasol Oral Solution",
+      "formula": "N/A",
+      "price": "140.77",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/t5aqptskylpcb4psipmn.jpg",
+      "url": "https://www.1mg.com/drugs/alkasol-oral-solution-4967"
+    },
+    {
+      "id": 11,
+      "name": "Alkasol Oral Solution",
+      "formula": "N/A",
+      "price": "140.77",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/t5aqptskylpcb4psipmn.jpg",
+      "url": "https://www.1mg.com/drugs/alkasol-oral-solution-4967"
+    },
+    {
+      "id": 12,
+      "name": "Allegra 180mg Tablet",
+      "formula": "N/A",
+      "price": "283.7",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0954ecc18acb4ff8986a4dafa7bba634.jpg",
+      "url": "https://www.1mg.com/drugs/allegra-180mg-tablet-9187"
+    },
+    {
+      "id": 13,
+      "name": "ASTHAlin Syrup",
+      "formula": "N/A",
+      "price": "18.9",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/370d677ebf334de882b831e72b176941.jpg",
+      "url": "https://www.1mg.com/drugs/asthalin-syrup-69589"
+    },
+    {
+      "id": 14,
+      "name": "Asthakind-DX Syrup Sugar Free",
+      "formula": "N/A",
+      "price": "79.85",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/407aecca65ab4742a9725521ece5e3a2.jpg",
+      "url": "https://www.1mg.com/drugs/asthakind-dx-syrup-sugar-free-149334"
+    },
+    {
+      "id": 15,
+      "name": "Alprax 0.25 Tablet",
+      "formula": "N/A",
+      "price": "36.09",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/114b0dcb521e45538fb691876d68b613.jpg",
+      "url": "https://www.1mg.com/drugs/alprax-0.25-tablet-69430"
+    },
+    {
+      "id": 16,
+      "name": "Amlokind-AT Tablet",
+      "formula": "N/A",
+      "price": "55.62",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/50ff2cbcc0fd435aa79d8d2b2e69f979.jpg",
+      "url": "https://www.1mg.com/drugs/amlokind-at-tablet-648536"
+    },
+    {
+      "id": 17,
+      "name": "aldactone Tablet",
+      "formula": "N/A",
+      "price": "34.9",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/93cbcb82a35246e0b16265a552db9eb3.jpg",
+      "url": "https://www.1mg.com/drugs/aldactone-tablet-116839"
+    },
+    {
+      "id": 18,
+      "name": "Altraday Capsule SR",
+      "formula": "N/A",
+      "price": "131.25",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tqux8ccp05qx3npvxex9.jpg",
+      "url": "https://www.1mg.com/drugs/altraday-capsule-sr-63221"
+    },
+    {
+      "id": 19,
+      "name": "Althrocin 500 Tablet",
+      "formula": "N/A",
+      "price": "135.84",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/anugrgvegh7wmftq5gtz.jpg",
+      "url": "https://www.1mg.com/drugs/althrocin-500-tablet-121422"
+    },
+    {
+      "id": 20,
+      "name": "Ativan 2mg Tablet",
+      "formula": "N/A",
+      "price": "89.9",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+      "url": "https://www.1mg.com/drugs/ativan-2mg-tablet-236513"
+    },
+    {
+      "id": 21,
+      "name": "Ambrodil-S Syrup",
+      "formula": "N/A",
+      "price": "36.56",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/89d9d27842164578ac3b58a095c264b9.jpg",
+      "url": "https://www.1mg.com/drugs/ambrodil-s-syrup-161343"
+    },
+    {
+      "id": 22,
+      "name": "Aricep 10 Tablet",
+      "formula": "N/A",
+      "price": "186.09",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ieru31gjjrapcgk3ocq1.jpg",
+      "url": "https://www.1mg.com/drugs/aricep-10-tablet-5608"
+    },
+    {
+      "id": 23,
+      "name": "Aricep-M Tablet",
+      "formula": "N/A",
+      "price": "163.13",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/84c400da36c3488db118600617105cbb.jpg",
+      "url": "https://www.1mg.com/drugs/aricep-m-tablet-329805"
+    },
+    {
+      "id": 24,
+      "name": "ASTHAlin 100mcg Inhaler",
+      "formula": "N/A",
+      "price": "168.8",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a63182c8d4b9446088a3c44fbc7b2c37.jpg",
+      "url": "https://www.1mg.com/drugs/asthalin-100mcg-inhaler-141944"
+    },
+    {
+      "id": 25,
+      "name": "Axcer 90mg Tablet",
+      "formula": "N/A",
+      "price": "491.25",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/502052a0617248ca8722284828a35bec.jpg",
+      "url": "https://www.1mg.com/drugs/axcer-90mg-tablet-324040"
+    },
+    {
+      "id": 26,
+      "name": "Aldigesic P 100mg/325mg Tablet",
+      "formula": "N/A",
+      "price": "119.05",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/96515acd8db646339c72f0b336cb23ed.jpg",
+      "url": "https://www.1mg.com/drugs/aldigesic-p-100mg-325mg-tablet-542927"
+    },
+    {
+      "id": 27,
+      "name": "Atarax Syrup",
+      "formula": "N/A",
+      "price": "137.34",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pgf7pdat9zfpiqq0gjn3.jpg",
+      "url": "https://www.1mg.com/drugs/atarax-syrup-228589"
+    },
+    {
+      "id": 28,
+      "name": "AB-Flo-N Tablet",
+      "formula": "N/A",
+      "price": "252",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rgrgyhybk3nt2uhavftk.jpg",
+      "url": "https://www.1mg.com/drugs/ab-flo-n-tablet-338468"
+    },
+    {
+      "id": 29,
+      "name": "Augmentin DDS Suspension",
+      "formula": "N/A",
+      "price": "196.1",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/35fedc27449447a1a6a22f0e5c437f81.jpg",
+      "url": "https://www.1mg.com/drugs/augmentin-dds-suspension-63460"
+    },
+    {
+      "id": 30,
+      "name": "Alex Cough Lozenges Lemon Ginger",
+      "formula": "N/A",
+      "price": "120.94",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lanqymfxewwnifdaxrhx.jpg",
+      "url": "https://www.1mg.com/drugs/alex-cough-lozenges-lemon-ginger-144921"
+    },
+    {
+      "id": 31,
+      "name": "Aceclo Plus Tablet",
+      "formula": "N/A",
+      "price": "106.88",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jkypc0jhxqkhvr8uguul.jpg",
+      "url": "https://www.1mg.com/drugs/aceclo-plus-tablet-68674"
+    },
+    {
+      "id": 32,
+      "name": "Aciloc RD 20 Tablet",
+      "formula": "N/A",
+      "price": "94.69",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/epbgofppoky6cermgzyx.png",
+      "url": "https://www.1mg.com/drugs/aciloc-rd-20-tablet-643918"
+    },
+    {
+      "id": 33,
+      "name": "Arachitol 6L Injection",
+      "formula": "N/A",
+      "price": "508.7",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/defd8e0ca8a04e19a305146ec9c0e78e.jpg",
+      "url": "https://www.1mg.com/drugs/arachitol-6l-injection-323178"
+    },
+    {
+      "id": 34,
+      "name": "Autrin Hematinic Capsule with Cyanocobalamin, Iron & Folic Acid",
+      "formula": "N/A",
+      "price": "205.28",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ed8mkykpj9xtyyd8ki48.jpg",
+      "url": "https://www.1mg.com/drugs/autrin-hematinic-capsule-with-cyanocobalamin-iron-folic-acid-63464"
+    },
+    {
+      "id": 35,
+      "name": "AB Phylline N Tablet",
+      "formula": "N/A",
+      "price": "235.31",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nq1fzkhlj8ih77rrp613.jpg",
+      "url": "https://www.1mg.com/drugs/ab-phylline-n-tablet-353332"
+    },
+    {
+      "id": 36,
+      "name": "Atarax 10mg Tablet",
+      "formula": "N/A",
+      "price": "59.53",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e12bf2b7bb66433a92cae233a4088b68.jpg",
+      "url": "https://www.1mg.com/drugs/atarax-10mg-tablet-228392"
+    },
+    {
+      "id": 37,
+      "name": "Aldigesic-SP Tablet",
+      "formula": "N/A",
+      "price": "123.75",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3012fd4c90714d4c8aed02ab6f6708a4.jpg",
+      "url": "https://www.1mg.com/drugs/aldigesic-sp-tablet-146166"
+    },
+    {
+      "id": 38,
+      "name": "Anobliss Cream",
+      "formula": "N/A",
+      "price": "153.6",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e60601b2f56e4876bb6f9aa090e9abcf.jpg",
+      "url": "https://www.1mg.com/drugs/anobliss-cream-145210"
+    },
+    {
+      "id": 39,
+      "name": "Ascoril LS Junior Syrup",
+      "formula": "N/A",
+      "price": "99.38",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/exek7p354rrqgtlbjwp0.jpg",
+      "url": "https://www.1mg.com/drugs/ascoril-ls-junior-syrup-340445"
+    },
+    {
+      "id": 40,
+      "name": "Ascoril LS Drops",
+      "formula": "N/A",
+      "price": "88.13",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/waoglp086qzmryuks8dt.jpg",
+      "url": "https://www.1mg.com/drugs/ascoril-ls-drops-119912"
+    }
+  ]
+}

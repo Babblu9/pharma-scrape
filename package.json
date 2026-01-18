@@ -1,0 +1,24 @@
+{
+  "name": "apollo-scraper",
+  "version": "1.0.0",
+  "description": "Apollo Pharmacy scraper using Playwright and GraphQL",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "install-browsers": "npx playwright install"
+  },
+  "keywords": [
+    "apollo",
+    "pharmacy",
+    "scraper",
+    "playwright",
+    "graphql"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "axios": "^1.6.0"
+  }
+}

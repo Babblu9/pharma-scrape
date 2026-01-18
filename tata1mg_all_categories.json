@@ -1,0 +1,2012 @@
+{
+  "scrapedAt": "2026-01-17T17:14:08.798Z",
+  "source": "Tata 1mg",
+  "status": "Complete",
+  "totalCategories": 14,
+  "categoriesWithProducts": 5,
+  "totalProducts": 211,
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryName": "Vitamins & Supplements",
+      "categoryUrl": "https://www.1mg.com/categories/vitamins-supplements-328",
+      "productCount": 50,
+      "products": [
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Cofsils Gargle",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "77.2",
+          "mrp": "77.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cofsils-gargle-otc564616"
+        },
+        {
+          "name": "Cofsils Gargle",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "77.2",
+          "mrp": "77.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cofsils-gargle-otc564616"
+        },
+        {
+          "name": "Eloway Aloe Vera Moisturizing Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "107",
+          "mrp": "107",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/eloway-aloe-vera-moisturizing-gel-otc704633"
+        },
+        {
+          "name": "Eloway Aloe Vera Moisturizing Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "107",
+          "mrp": "107",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/eloway-aloe-vera-moisturizing-gel-otc704633"
+        },
+        {
+          "name": "Dr. Morepen Marine Skin Protein with Hyaluronic Acid, Vitamin C & Biotin Chocolate",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1231",
+          "mrp": "1231",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-morepen-marine-skin-protein-with-hyaluronic-acid-vitamin-c-biotin-chocolate-otc722211"
+        },
+        {
+          "name": "Dr. Morepen Marine Skin Protein with Hyaluronic Acid, Vitamin C & Biotin Chocolate",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1231",
+          "mrp": "1231",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-morepen-marine-skin-protein-with-hyaluronic-acid-vitamin-c-biotin-chocolate-otc722211"
+        },
+        {
+          "name": "Easylax L Oral Solution Lemon Sugar Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "253",
+          "mrp": "253",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/easylax-l-oral-solution-lemon-sugar-free-750077"
+        },
+        {
+          "name": "Easylax L Oral Solution Lemon Sugar Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "253",
+          "mrp": "253",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/easylax-l-oral-solution-lemon-sugar-free-750077"
+        },
+        {
+          "name": "Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "211",
+          "mrp": "211",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479"
+        },
+        {
+          "name": "Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "211",
+          "mrp": "211",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Hot Water Bag & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "491",
+          "mrp": "491",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-hot-water-bag-tata-1mg-pain-relief-gel-75gm-otc834752"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Hot Water Bag & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "491",
+          "mrp": "491",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-hot-water-bag-tata-1mg-pain-relief-gel-75gm-otc834752"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Calcium 500mg & Vitamin D3 250IU Tablet (15)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "221",
+          "mrp": "221",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-calcium-500mg-vitamin-d3-250iu-tablet-15-otc883221"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Calcium 500mg & Vitamin D3 250IU Tablet (15)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "221",
+          "mrp": "221",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-calcium-500mg-vitamin-d3-250iu-tablet-15-otc883221"
+        },
+        {
+          "name": "Pain Relief Gel for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "143",
+          "mrp": "143",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-gel-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805271"
+        },
+        {
+          "name": "Pain Relief Gel for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "143",
+          "mrp": "143",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-gel-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805271"
+        },
+        {
+          "name": "Gemsoline Soft Gelatin Capsule from Medley for Bone, Joint and Muscle Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "190",
+          "mrp": "190",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/gemsoline-soft-gelatin-capsule-from-medley-for-bone-joint-and-muscle-care-117678"
+        },
+        {
+          "name": "Gemsoline Soft Gelatin Capsule from Medley for Bone, Joint and Muscle Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "190",
+          "mrp": "190",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/gemsoline-soft-gelatin-capsule-from-medley-for-bone-joint-and-muscle-care-117678"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Medicated First Aid Dressing - Washproof, Bandages (20)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "186",
+          "mrp": "186",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-medicated-first-aid-dressing-washproof-bandages-20-otc857624"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Medicated First Aid Dressing - Washproof, Bandages (20)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "186",
+          "mrp": "186",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-medicated-first-aid-dressing-washproof-bandages-20-otc857624"
+        },
+        {
+          "name": "Prega News Advance Pregnancy Rapid Single-Step Test Kit",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "61.7",
+          "mrp": "61.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prega-news-advance-pregnancy-rapid-single-step-test-kit-otc716250"
+        },
+        {
+          "name": "Prega News Advance Pregnancy Rapid Single-Step Test Kit",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "61.7",
+          "mrp": "61.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prega-news-advance-pregnancy-rapid-single-step-test-kit-otc716250"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "296",
+          "mrp": "296",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-pain-relief-gel-75gm-otc834762"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "296",
+          "mrp": "296",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-pain-relief-gel-75gm-otc834762"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "73",
+          "mrp": "73",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-323270"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "73",
+          "mrp": "73",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-323270"
+        },
+        {
+          "name": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "24.6",
+          "mrp": "24.6",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cipcal-d3-cholecalciferol-granules-for-bone-joint-and-muscle-health-otc180047"
+        },
+        {
+          "name": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "24.6",
+          "mrp": "24.6",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cipcal-d3-cholecalciferol-granules-for-bone-joint-and-muscle-health-otc180047"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Elbow Support Large & Tata 1mg Pain Relief Spray (100gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "345",
+          "mrp": "345",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-elbow-support-large-tata-1mg-pain-relief-spray-100gm-otc864959"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Elbow Support Large & Tata 1mg Pain Relief Spray (100gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "345",
+          "mrp": "345",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-elbow-support-large-tata-1mg-pain-relief-spray-100gm-otc864959"
+        },
+        {
+          "name": "Prolyte ORS Combo Pack of Ready To Drink for Body Fluid & Electrolyte Replenishment Flavour Apple & Orange",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "44.2",
+          "mrp": "44.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prolyte-ors-combo-pack-of-ready-to-drink-for-body-fluid-electrolyte-replenishment-flavour-apple-orange-otc917454"
+        },
+        {
+          "name": "Prolyte ORS Combo Pack of Ready To Drink for Body Fluid & Electrolyte Replenishment Flavour Apple & Orange",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "44.2",
+          "mrp": "44.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prolyte-ors-combo-pack-of-ready-to-drink-for-body-fluid-electrolyte-replenishment-flavour-apple-orange-otc917454"
+        },
+        {
+          "name": "Pain Relief Spray for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "152",
+          "mrp": "152",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-spray-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805278"
+        },
+        {
+          "name": "Pain Relief Spray for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "152",
+          "mrp": "152",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-spray-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805278"
+        },
+        {
+          "name": "Combo Pack of Cipcal 500 Tablet (15) & Neurobion Forte Tablet (30)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "115",
+          "mrp": "115",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-cipcal-500-tablet-15-neurobion-forte-tablet-30-otc783423"
+        },
+        {
+          "name": "Combo Pack of Cipcal 500 Tablet (15) & Neurobion Forte Tablet (30)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "115",
+          "mrp": "115",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-cipcal-500-tablet-15-neurobion-forte-tablet-30-otc783423"
+        },
+        {
+          "name": "Tugain Twins 5 Solution for Hair Growth(60ml Each)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1169",
+          "mrp": "1169",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/tugain-twins-5-solution-for-hair-growth-60ml-each-619625"
+        },
+        {
+          "name": "Tugain Twins 5 Solution for Hair Growth(60ml Each)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1169",
+          "mrp": "1169",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/tugain-twins-5-solution-for-hair-growth-60ml-each-619625"
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Ayurveda",
+      "categoryUrl": "https://www.1mg.com/categories/ayurveda-104",
+      "productCount": 50,
+      "products": [
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Shop by health concerns",
+          "manufacturer": "N/A",
+          "packSize": "Full body health checkups\nSee all",
+          "price": "2249",
+          "mrp": "2249",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Super saving deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "98.4",
+          "mrp": "98.4",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-204487"
+        },
+        {
+          "name": "Cofsils Gargle",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "77.2",
+          "mrp": "77.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cofsils-gargle-otc564616"
+        },
+        {
+          "name": "Cofsils Gargle",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "77.2",
+          "mrp": "77.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cofsils-gargle-otc564616"
+        },
+        {
+          "name": "Eloway Aloe Vera Moisturizing Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "107",
+          "mrp": "107",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/eloway-aloe-vera-moisturizing-gel-otc704633"
+        },
+        {
+          "name": "Eloway Aloe Vera Moisturizing Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "107",
+          "mrp": "107",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/eloway-aloe-vera-moisturizing-gel-otc704633"
+        },
+        {
+          "name": "Dr. Morepen Marine Skin Protein with Hyaluronic Acid, Vitamin C & Biotin Chocolate",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1231",
+          "mrp": "1231",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-morepen-marine-skin-protein-with-hyaluronic-acid-vitamin-c-biotin-chocolate-otc722211"
+        },
+        {
+          "name": "Dr. Morepen Marine Skin Protein with Hyaluronic Acid, Vitamin C & Biotin Chocolate",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1231",
+          "mrp": "1231",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-morepen-marine-skin-protein-with-hyaluronic-acid-vitamin-c-biotin-chocolate-otc722211"
+        },
+        {
+          "name": "Easylax L Oral Solution Lemon Sugar Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "253",
+          "mrp": "253",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/easylax-l-oral-solution-lemon-sugar-free-750077"
+        },
+        {
+          "name": "Easylax L Oral Solution Lemon Sugar Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "253",
+          "mrp": "253",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/easylax-l-oral-solution-lemon-sugar-free-750077"
+        },
+        {
+          "name": "Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "211",
+          "mrp": "211",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479"
+        },
+        {
+          "name": "Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee Pain, Joint Pain",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "211",
+          "mrp": "211",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/omnigel-pain-relief-from-sprain-injury-back-pain-muscle-pain-body-pain-knee-pain-joint-pain-otc855479"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Hot Water Bag & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "491",
+          "mrp": "491",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-hot-water-bag-tata-1mg-pain-relief-gel-75gm-otc834752"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Hot Water Bag & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "491",
+          "mrp": "491",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-hot-water-bag-tata-1mg-pain-relief-gel-75gm-otc834752"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Calcium 500mg & Vitamin D3 250IU Tablet (15)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "221",
+          "mrp": "221",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-calcium-500mg-vitamin-d3-250iu-tablet-15-otc883221"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Calcium 500mg & Vitamin D3 250IU Tablet (15)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "221",
+          "mrp": "221",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-calcium-500mg-vitamin-d3-250iu-tablet-15-otc883221"
+        },
+        {
+          "name": "Pain Relief Gel for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "143",
+          "mrp": "143",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-gel-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805271"
+        },
+        {
+          "name": "Pain Relief Gel for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "143",
+          "mrp": "143",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-gel-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805271"
+        },
+        {
+          "name": "Gemsoline Soft Gelatin Capsule from Medley for Bone, Joint and Muscle Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "190",
+          "mrp": "190",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/gemsoline-soft-gelatin-capsule-from-medley-for-bone-joint-and-muscle-care-117678"
+        },
+        {
+          "name": "Gemsoline Soft Gelatin Capsule from Medley for Bone, Joint and Muscle Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "190",
+          "mrp": "190",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/gemsoline-soft-gelatin-capsule-from-medley-for-bone-joint-and-muscle-care-117678"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Medicated First Aid Dressing - Washproof, Bandages (20)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "186",
+          "mrp": "186",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-medicated-first-aid-dressing-washproof-bandages-20-otc857624"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Medicated First Aid Dressing - Washproof, Bandages (20)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "186",
+          "mrp": "186",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-medicated-first-aid-dressing-washproof-bandages-20-otc857624"
+        },
+        {
+          "name": "Prega News Advance Pregnancy Rapid Single-Step Test Kit",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "61.7",
+          "mrp": "61.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prega-news-advance-pregnancy-rapid-single-step-test-kit-otc716250"
+        },
+        {
+          "name": "Prega News Advance Pregnancy Rapid Single-Step Test Kit",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "61.7",
+          "mrp": "61.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prega-news-advance-pregnancy-rapid-single-step-test-kit-otc716250"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "296",
+          "mrp": "296",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-pain-relief-gel-75gm-otc834762"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Pain Relief Gel (75gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "296",
+          "mrp": "296",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-pain-relief-spray-100gm-tata-1mg-pain-relief-gel-75gm-otc834762"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "73",
+          "mrp": "73",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-323270"
+        },
+        {
+          "name": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "73",
+          "mrp": "73",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/clocip-anti-fungal-dusting-powder-for-skin-infections-itching-rashes-323270"
+        },
+        {
+          "name": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "24.6",
+          "mrp": "24.6",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cipcal-d3-cholecalciferol-granules-for-bone-joint-and-muscle-health-otc180047"
+        },
+        {
+          "name": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "24.6",
+          "mrp": "24.6",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/cipcal-d3-cholecalciferol-granules-for-bone-joint-and-muscle-health-otc180047"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Elbow Support Large & Tata 1mg Pain Relief Spray (100gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "345",
+          "mrp": "345",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-elbow-support-large-tata-1mg-pain-relief-spray-100gm-otc864959"
+        },
+        {
+          "name": "Combo Pack of Tata 1mg Elbow Support Large & Tata 1mg Pain Relief Spray (100gm)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "345",
+          "mrp": "345",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-tata-1mg-elbow-support-large-tata-1mg-pain-relief-spray-100gm-otc864959"
+        },
+        {
+          "name": "Prolyte ORS Combo Pack of Ready To Drink for Body Fluid & Electrolyte Replenishment Flavour Apple & Orange",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "44.2",
+          "mrp": "44.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prolyte-ors-combo-pack-of-ready-to-drink-for-body-fluid-electrolyte-replenishment-flavour-apple-orange-otc917454"
+        },
+        {
+          "name": "Prolyte ORS Combo Pack of Ready To Drink for Body Fluid & Electrolyte Replenishment Flavour Apple & Orange",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "44.2",
+          "mrp": "44.2",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/prolyte-ors-combo-pack-of-ready-to-drink-for-body-fluid-electrolyte-replenishment-flavour-apple-orange-otc917454"
+        },
+        {
+          "name": "Pain Relief Spray for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "152",
+          "mrp": "152",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-spray-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805278"
+        },
+        {
+          "name": "Pain Relief Spray for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1mg",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "152",
+          "mrp": "152",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/pain-relief-spray-for-lower-back-pain-joint-pain-neck-pain-sprain-by-tata-1mg-otc805278"
+        },
+        {
+          "name": "Combo Pack of Cipcal 500 Tablet (15) & Neurobion Forte Tablet (30)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "115",
+          "mrp": "115",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-cipcal-500-tablet-15-neurobion-forte-tablet-30-otc783423"
+        },
+        {
+          "name": "Combo Pack of Cipcal 500 Tablet (15) & Neurobion Forte Tablet (30)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "115",
+          "mrp": "115",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/combo-pack-of-cipcal-500-tablet-15-neurobion-forte-tablet-30-otc783423"
+        },
+        {
+          "name": "Tugain Twins 5 Solution for Hair Growth(60ml Each)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1169",
+          "mrp": "1169",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/tugain-twins-5-solution-for-hair-growth-60ml-each-619625"
+        },
+        {
+          "name": "Tugain Twins 5 Solution for Hair Growth(60ml Each)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "1169",
+          "mrp": "1169",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/drugs/tugain-twins-5-solution-for-hair-growth-60ml-each-619625"
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Homeopathy",
+      "categoryUrl": "https://www.1mg.com/categories/homeopathy-105",
+      "productCount": 27,
+      "products": [
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-6x-otc326300"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-12x-otc732623"
+        },
+        {
+          "name": "ADEL Calcarea Phosphorica Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-phosphorica-biochemic-tablet-12x-otc732647"
+        },
+        {
+          "name": "ADEL Kali Sulphuricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-kali-sulphuricum-biochemic-tablet-6x-otc733402"
+        },
+        {
+          "name": "ADEL Magnesium Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-magnesium-phosphoricum-biochemic-tablet-6x-otc732699"
+        },
+        {
+          "name": "ADEL Kali Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-kali-phosphoricum-biochemic-tablet-6x-otc329084"
+        },
+        {
+          "name": "ADEL Magnesium Phosphoricum Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-magnesium-phosphoricum-biochemic-tablet-12x-otc732700"
+        },
+        {
+          "name": "ADEL Magnesia Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "200",
+          "mrp": "200",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-magnesia-phosphoricum-biochemic-tablet-6x-otc329087"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 30X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-30x-otc732626"
+        },
+        {
+          "name": "ADEL Calcarea Phosphorica Biochemic Tablet 30X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-phosphorica-biochemic-tablet-30x-otc732669"
+        },
+        {
+          "name": "ADEL Silicea Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-silicea-biochemic-tablet-12x-otc733369"
+        },
+        {
+          "name": "ADEL Kali Muriaticum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-kali-muriaticum-biochemic-tablet-6x-otc332684"
+        },
+        {
+          "name": "ADEL Five Phosph Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-five-phosph-biochemic-tablet-6x-otc326272"
+        },
+        {
+          "name": "ADEL Natrum Phosphoricum Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-natrum-phosphoricum-biochemic-tablet-12x-otc733119"
+        },
+        {
+          "name": "ADEL Anti Sciatica Combo Pack of ADEL 39 Apo-Sciatica Drop 20ml & Magnesia Phosphoricum 20gm Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "488",
+          "mrp": "488",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-anti-sciatica-combo-pack-of-adel-39-apo-sciatica-drop-20ml-magnesia-phosphoricum-20gm-biochemic-tablet-6x-otc661517"
+        },
+        {
+          "name": "ADEL Calcarea Sulphuricum Biochemic Tablet 12X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-sulphuricum-biochemic-tablet-12x-otc733057"
+        },
+        {
+          "name": "ADEL Ferrum Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-ferrum-phosphoricum-biochemic-tablet-6x-otc329085"
+        },
+        {
+          "name": "ADEL Natrum Sulphuricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-natrum-sulphuricum-biochemic-tablet-6x-otc733095"
+        },
+        {
+          "name": "ADEL Calcarea Fluor Biochemic Tablet 200X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "284",
+          "mrp": "284",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-fluor-biochemic-tablet-200x-otc732630"
+        },
+        {
+          "name": "ADEL Calcarea Sulphuricum Biochemic Tablet 3X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "198",
+          "mrp": "198",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/adel-calcarea-sulphuricum-biochemic-tablet-3x-otc326291"
+        }
+      ]
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Fitness & Wellness",
+      "categoryUrl": "https://www.1mg.com/categories/fitness-wellness-330",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Mom & Baby",
+      "categoryUrl": "https://www.1mg.com/categories/mom-baby-329",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Devices",
+      "categoryUrl": "https://www.1mg.com/categories/devices-106",
+      "productCount": 27,
+      "products": [
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "290",
+          "mrp": "290",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-reckeweg-r41-sexual-neurasthenia-drop-otc327434"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-dilution-dilution-200-ch-otc338216"
+        },
+        {
+          "name": "SBL Thuja Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "72.7",
+          "mrp": "72.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-thuja-gel-otc331010"
+        },
+        {
+          "name": "Dr Willmar Schwabe Germany Senecio Bicolor D2 Cineraria Maritima Without Alcohol Eye Drop",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "215",
+          "mrp": "215",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr-willmar-schwabe-germany-senecio-bicolor-d2-cineraria-maritima-without-alcohol-eye-drop-otc326131"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "216",
+          "mrp": "216",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-reckeweg-calcarea-phosphorica-biochemic-tablet-6x-supports-strong-teeth-bones-for-pain-relief-otc325463"
+        },
+        {
+          "name": "SBL Kali Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-kali-phosphoricum-biochemic-tablet-6x-otc331042"
+        },
+        {
+          "name": "SBL Chelidonium Majus Mother Tincture Q | Stomach Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-chelidonium-majus-mother-tincture-q-stomach-care-otc338503"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-calcarea-fluorica-biochemic-tablet-6x-otc331087"
+        },
+        {
+          "name": "SBL Nux Vomica Dilution Dilution 200 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-200-ch-otc338195"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-berberis-vulgaris-mother-tincture-q-stomach-care-otc348876"
+        },
+        {
+          "name": "SBL Five Phos Tablet",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-five-phos-tablet-otc608306"
+        },
+        {
+          "name": "Dr. Reckeweg Berberis Vul Mother Tincture Q",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "289",
+          "mrp": "289",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/dr.-reckeweg-berberis-vul-mother-tincture-q-otc327784"
+        },
+        {
+          "name": "Bakson's Homoeopathy Y-Lax Tablet",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "421",
+          "mrp": "421",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/bakson-s-homoeopathy-y-lax-tablet-otc648470"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arsenicum-album-dilution-30-ch-otc338369"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-bio-combination-6-tablet-otc331025"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-syzygium-jambolanum-mother-tincture-q-otc338412"
+        },
+        {
+          "name": "SBL Rhus Toxicodendron Dilution 200 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-rhus-toxicodendron-dilution-200-ch-otc338182"
+        },
+        {
+          "name": "SBL Arnica Montana Dilution Dilution 30 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-dilution-dilution-30-ch-otc338218"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "196",
+          "mrp": "196",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/bhargava-spondin-drop-for-pain-relief-from-neck-shoulder-otc325892"
+        }
+      ]
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "Personal Care",
+      "categoryUrl": "https://www.1mg.com/categories/personal-care-108",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "Health Food & Drinks",
+      "categoryUrl": "https://www.1mg.com/categories/health-food-drinks-107",
+      "productCount": 57,
+      "products": [
+        {
+          "name": "Shop by Category",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Shop by Category",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Shop by Category",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Shop by Category",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Shop by Category",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Top Deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Top Deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "Top Deals",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 50M CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 50M CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 50M CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 50M CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 50M CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "330",
+          "mrp": "330",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-50m-ch-otc385172"
+        },
+        {
+          "name": "SBL Causticum Dilution 12 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-12-ch-otc351716"
+        },
+        {
+          "name": "SBL Causticum Dilution 12 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-12-ch-otc351716"
+        },
+        {
+          "name": "SBL Drops No. 9 ( For Cough)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "177",
+          "mrp": "177",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-drops-no.-9-for-cough-otc339778"
+        },
+        {
+          "name": "SBL Drops No. 9 ( For Cough)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "177",
+          "mrp": "177",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-drops-no.-9-for-cough-otc339778"
+        },
+        {
+          "name": "SBL Liv-T Paediatric Tonic",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "165",
+          "mrp": "165",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-liv-t-paediatric-tonic-otc330949"
+        },
+        {
+          "name": "SBL Liv-T Paediatric Tonic",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "165",
+          "mrp": "165",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-liv-t-paediatric-tonic-otc330949"
+        },
+        {
+          "name": "SBL Causticum Dilution 6 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "108",
+          "mrp": "108",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-6-ch-otc349114"
+        },
+        {
+          "name": "SBL Causticum Dilution 6 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "108",
+          "mrp": "108",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-6-ch-otc349114"
+        },
+        {
+          "name": "SBL Arnica Montana Fortified Hair Oil Paraben & Mineral Oil Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "149",
+          "mrp": "149",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-fortified-hair-oil-paraben-mineral-oil-free-otc884489"
+        },
+        {
+          "name": "SBL Arnica Montana Fortified Hair Oil Paraben & Mineral Oil Free",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "149",
+          "mrp": "149",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-fortified-hair-oil-paraben-mineral-oil-free-otc884489"
+        },
+        {
+          "name": "SBL Carbo Vegetabilis Dilution 1000 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-carbo-vegetabilis-dilution-1000-ch-otc346104"
+        },
+        {
+          "name": "SBL Carbo Vegetabilis Dilution 1000 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-carbo-vegetabilis-dilution-1000-ch-otc346104"
+        },
+        {
+          "name": "SBL Drops No. 8 ( For Allergic Rhinitis)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "166",
+          "mrp": "166",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-drops-no.-8-for-allergic-rhinitis-otc339777"
+        },
+        {
+          "name": "SBL Drops No. 8 ( For Allergic Rhinitis)",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "166",
+          "mrp": "166",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-drops-no.-8-for-allergic-rhinitis-otc339777"
+        },
+        {
+          "name": "SBL Carbo Vegetabilis Dilution 6 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-carbo-vegetabilis-dilution-6-ch-otc349137"
+        },
+        {
+          "name": "SBL Carbo Vegetabilis Dilution 6 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-carbo-vegetabilis-dilution-6-ch-otc349137"
+        },
+        {
+          "name": "SBL Causticum Dilution 1000 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-1000-ch-otc346124"
+        },
+        {
+          "name": "SBL Causticum Dilution 1000 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-causticum-dilution-1000-ch-otc346124"
+        },
+        {
+          "name": "SBL Silicea Biochemic Tablet 30X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "104",
+          "mrp": "104",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-silicea-biochemic-tablet-30x-otc368311"
+        },
+        {
+          "name": "SBL Silicea Biochemic Tablet 30X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "104",
+          "mrp": "104",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-silicea-biochemic-tablet-30x-otc368311"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "146",
+          "mrp": "146",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-hair-oil-with-tjc-otc330951"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "146",
+          "mrp": "146",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-hair-oil-with-tjc-otc330951"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.7",
+          "mrp": "99.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-30-ch-otc338194"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-dilution-dilution-200-ch-otc338216"
+        },
+        {
+          "name": "SBL Thuja Gel",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "72.7",
+          "mrp": "72.7",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-thuja-gel-otc331010"
+        },
+        {
+          "name": "SBL Kali Phosphoricum Biochemic Tablet 6X",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-kali-phosphoricum-biochemic-tablet-6x-otc331042"
+        },
+        {
+          "name": "SBL Chelidonium Majus Mother Tincture Q | Stomach Care",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "145",
+          "mrp": "145",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-chelidonium-majus-mother-tincture-q-stomach-care-otc338503"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-calcarea-fluorica-biochemic-tablet-6x-otc331087"
+        },
+        {
+          "name": "SBL Nux Vomica Dilution Dilution 200 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-nux-vomica-dilution-dilution-200-ch-otc338195"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-berberis-vulgaris-mother-tincture-q-stomach-care-otc348876"
+        },
+        {
+          "name": "SBL Five Phos Tablet",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-five-phos-tablet-otc608306"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arsenicum-album-dilution-30-ch-otc338369"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-bio-combination-6-tablet-otc331025"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "109",
+          "mrp": "109",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-syzygium-jambolanum-mother-tincture-q-otc338412"
+        },
+        {
+          "name": "SBL Rhus Toxicodendron Dilution 200 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "118",
+          "mrp": "118",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-rhus-toxicodendron-dilution-200-ch-otc338182"
+        },
+        {
+          "name": "SBL Arnica Montana Dilution Dilution 30 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-arnica-montana-dilution-dilution-30-ch-otc338218"
+        },
+        {
+          "name": "SBL Carbo Vegetabilis Dilution 30 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.9",
+          "mrp": "99.9",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-carbo-vegetabilis-dilution-30-ch-otc338206"
+        },
+        {
+          "name": "SBL Bryonia Alba Dilution 30 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "100",
+          "mrp": "100",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-bryonia-alba-dilution-30-ch-otc346050"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "146",
+          "mrp": "146",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-jaborandi-mother-tincture-q-otc338446"
+        },
+        {
+          "name": "SBL Lycopodium Clavatum Dilution 30 CH",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "99.8",
+          "mrp": "99.8",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-lycopodium-clavatum-dilution-30-ch-otc338200"
+        },
+        {
+          "name": "Bestseller",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "154",
+          "mrp": "154",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-clearstone-drop-otc326121"
+        },
+        {
+          "name": "SBL Stobal Cough Syrup",
+          "manufacturer": "N/A",
+          "packSize": "N/A",
+          "price": "281",
+          "mrp": "281",
+          "prescriptionRequired": "No",
+          "url": "https://www.1mg.com/otc/sbl-stobal-cough-syrup-otc857676"
+        }
+      ]
+    },
+    {
+      "categoryId": 9,
+      "categoryName": "Skin Care",
+      "categoryUrl": "https://www.1mg.com/categories/skin-care-331",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 10,
+      "categoryName": "Home Care",
+      "categoryUrl": "https://www.1mg.com/categories/home-care-332",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 11,
+      "categoryName": "Diabetic Care",
+      "categoryUrl": "https://www.1mg.com/categories/diabetic-care-333",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 12,
+      "categoryName": "Elderly Care",
+      "categoryUrl": "https://www.1mg.com/categories/elderly-care-334",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 13,
+      "categoryName": "Sexual Wellness",
+      "categoryUrl": "https://www.1mg.com/categories/sexual-wellness-335",
+      "productCount": 0,
+      "products": []
+    },
+    {
+      "categoryId": 14,
+      "categoryName": "Health Conditions",
+      "categoryUrl": "https://www.1mg.com/categories/health-conditions-336",
+      "productCount": 0,
+      "products": []
+    }
+  ]
+}

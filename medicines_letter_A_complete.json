@@ -1,0 +1,2715 @@
+{
+  "scrapedAt": "2026-01-17T18:13:28.092Z",
+  "source": "Tata 1mg A-Z Index",
+  "status": "Complete",
+  "totalLetters": 1,
+  "totalMedicines": 270,
+  "letters": [
+    {
+      "letter": "A",
+      "medicineCount": 270,
+      "medicines": [
+        {
+          "id": 1,
+          "letter": "A",
+          "name": "Avastin 100mg Injection",
+          "formula": "Bevacizumab (100mg)",
+          "packSize": "N/A",
+          "price": "33863",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/avastin-100mg-injection-135666"
+        },
+        {
+          "id": 2,
+          "letter": "A",
+          "name": "Actorise 40 Injection",
+          "formula": "Darbepoetin alfa (40mcg)",
+          "packSize": "N/A",
+          "price": "2745.19",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/actorise-40-injection-227647"
+        },
+        {
+          "id": 3,
+          "letter": "A",
+          "name": "Actorise 25 Injection",
+          "formula": "Darbepoetin alfa (25mcg)",
+          "packSize": "N/A",
+          "price": "1701.56",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/actorise-25-injection-228329"
+        },
+        {
+          "id": 4,
+          "letter": "A",
+          "name": "Actorise 60 Injection",
+          "formula": "Darbepoetin alfa (60mcg)",
+          "packSize": "N/A",
+          "price": "3970.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/actorise-60-injection-403206"
+        },
+        {
+          "id": 5,
+          "letter": "A",
+          "name": "Azel 80 Capsule",
+          "formula": "Enzalutamide (80mg)",
+          "packSize": "strip of 14 capsules",
+          "price": "8156.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/32d9224ad4be4d679773e390ddab0dcc.jpg",
+          "url": "https://www.1mg.com/drugs/azel-80-capsule-682932"
+        },
+        {
+          "id": 6,
+          "letter": "A",
+          "name": "Azel 40mg Capsule",
+          "formula": "Enzalutamide (40mg)",
+          "packSize": "strip of 28 capsules",
+          "price": "8156.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/azel-40mg-capsule-429353"
+        },
+        {
+          "id": 7,
+          "letter": "A",
+          "name": "Actorise 200 Injection",
+          "formula": "Darbepoetin alfa (200mcg)",
+          "packSize": "N/A",
+          "price": "14069",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7c9b8f99489f4ae18153c7707b813ea2.jpg",
+          "url": "https://www.1mg.com/drugs/actorise-200-injection-342162"
+        },
+        {
+          "id": 8,
+          "letter": "A",
+          "name": "Actorise 100 Injection",
+          "formula": "Darbepoetin alfa (100mcg)",
+          "packSize": "N/A",
+          "price": "8304.18",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/900f0434d33d480aae4d4bbb04eada4d.jpg",
+          "url": "https://www.1mg.com/drugs/actorise-100-injection-369472"
+        },
+        {
+          "id": 9,
+          "letter": "A",
+          "name": "Azacytin Injection",
+          "formula": "Azacitidine (100mg)",
+          "packSize": "N/A",
+          "price": "5761.17",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/azacytin-injection-341892"
+        },
+        {
+          "id": 10,
+          "letter": "A",
+          "name": "ALECensa 150mg Capsule",
+          "formula": "Alectinib (150mg)",
+          "packSize": "box of 7 strips",
+          "price": "107674",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/de2ee5975558410997cc5508d1a997ba.jpg",
+          "url": "https://www.1mg.com/drugs/alecensa-150mg-capsule-831757"
+        },
+        {
+          "id": 11,
+          "letter": "A",
+          "name": "Aromasin 25mg Tablet",
+          "formula": "Exemestane (25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "5506.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/aromasin-25mg-tablet-767498"
+        },
+        {
+          "id": 12,
+          "letter": "A",
+          "name": "Augmentin 625 Duo Tablet",
+          "formula": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "195.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eluna27m2ptghojxlawz.png",
+          "url": "https://www.1mg.com/drugs/augmentin-625-duo-tablet-138629"
+        },
+        {
+          "id": 13,
+          "letter": "A",
+          "name": "Ascoril LS Syrup",
+          "formula": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "144.84",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9c4818e545ab4fa8a03d17094cf28ff4.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-ls-syrup-63412"
+        },
+        {
+          "id": 14,
+          "letter": "A",
+          "name": "Azithral 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "125.89",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gbliwoki0x2rzz6ipnz9.jpg",
+          "url": "https://www.1mg.com/drugs/azithral-500-tablet-325616"
+        },
+        {
+          "id": 15,
+          "letter": "A",
+          "name": "Amoxyclav 625 Tablet",
+          "formula": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "195.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/adf52cdfa6364fe08a96cff274eece45.jpg",
+          "url": "https://www.1mg.com/drugs/amoxyclav-625-tablet-491614"
+        },
+        {
+          "id": 16,
+          "letter": "A",
+          "name": "Allegra 120mg Tablet",
+          "formula": "Fexofenadine (120mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "272.99",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f88f5978671d49a2b5d14aad3f7158ce.jpg",
+          "url": "https://www.1mg.com/drugs/allegra-120mg-tablet-68763"
+        },
+        {
+          "id": 17,
+          "letter": "A",
+          "name": "Aricep 5 Tablet",
+          "formula": "Donepezil (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "128.91",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vdjkqbhmnz5ak1mdhaq5.jpg",
+          "url": "https://www.1mg.com/drugs/aricep-5-tablet-5606"
+        },
+        {
+          "id": 18,
+          "letter": "A",
+          "name": "AVil 25 Tablet",
+          "formula": "Pheniramine (25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "12.42",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rm5eel4umeiitnk1oggl.jpg",
+          "url": "https://www.1mg.com/drugs/avil-25-tablet-69629"
+        },
+        {
+          "id": 19,
+          "letter": "A",
+          "name": "Aciloc 150 Tablet",
+          "formula": "Ranitidine (150mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "50.44",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ogfwolxtutjau5qgmqth.jpg",
+          "url": "https://www.1mg.com/drugs/aciloc-150-tablet-134660"
+        },
+        {
+          "id": 20,
+          "letter": "A",
+          "name": "Alex Syrup",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "158.43",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pham6qafha8bqpq6j0jy.jpg",
+          "url": "https://www.1mg.com/drugs/alex-syrup-63175"
+        },
+        {
+          "id": 21,
+          "letter": "A",
+          "name": "Ascoril D Plus Syrup Sugar Free",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "158.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b16fafe2ac0a44858dfd4c710817bf37.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-d-plus-syrup-sugar-free-184611"
+        },
+        {
+          "id": 22,
+          "letter": "A",
+          "name": "Azee 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "125.89",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/94e9be8ba6ce49f58dfd8f51533c2789.jpg",
+          "url": "https://www.1mg.com/drugs/azee-500-tablet-324155"
+        },
+        {
+          "id": 23,
+          "letter": "A",
+          "name": "Allegra-M Tablet",
+          "formula": "Montelukast (10mg) + Fexofenadine (120mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "301.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/reypogwmuwm3tqt3l8yq.jpg",
+          "url": "https://www.1mg.com/drugs/allegra-m-tablet-9172"
+        },
+        {
+          "id": 24,
+          "letter": "A",
+          "name": "Atarax 25mg Tablet",
+          "formula": "Hydroxyzine (25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "106.41",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ea0seoqvuvbylykjwb4g.jpg",
+          "url": "https://www.1mg.com/drugs/atarax-25mg-tablet-228160"
+        },
+        {
+          "id": 25,
+          "letter": "A",
+          "name": "Ativan 1mg Tablet",
+          "formula": "Lorazepam (1mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "73.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6564693d2eb140a28e06cb29446f6bbd.jpg",
+          "url": "https://www.1mg.com/drugs/ativan-1mg-tablet-322827"
+        },
+        {
+          "id": 26,
+          "letter": "A",
+          "name": "Augmentin Duo Oral Suspension",
+          "formula": "Amoxycillin (200mg) + Clavulanic Acid (28.5mg)",
+          "packSize": "bottle of 30 ml Oral Suspension",
+          "price": "64.42",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jkxdngoylqkp5x62kawy.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-duo-oral-suspension-324979"
+        },
+        {
+          "id": 27,
+          "letter": "A",
+          "name": "Arkamin Tablet",
+          "formula": "Clonidine (100mcg)",
+          "packSize": "strip of 30 tablets",
+          "price": "90.35",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/azshjseewgrghgoo3jzl.jpg",
+          "url": "https://www.1mg.com/drugs/arkamin-tablet-330260"
+        },
+        {
+          "id": 28,
+          "letter": "A",
+          "name": "Armotraz Tablet",
+          "formula": "Anastrozole (1mg)",
+          "packSize": "Armotraz Tablet\nPrescription Required\nstrip of 10 tablets\nCipla Ltd\nAnastrozole (1mg)\n₹ 713.38\nADD",
+          "price": "713.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uxburnys95qqvup5omkh.jpg",
+          "url": "https://www.1mg.com/drugs/armotraz-tablet-45480"
+        },
+        {
+          "id": 29,
+          "letter": "A",
+          "name": "Avomine Tablet",
+          "formula": "Promethazine (25mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "63.49",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b8b013132070449196a26d5713fec90a.jpg",
+          "url": "https://www.1mg.com/drugs/avomine-tablet-28784"
+        },
+        {
+          "id": 30,
+          "letter": "A",
+          "name": "Anovate Rectal Cream",
+          "formula": "Phenylephrine (0.1% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.5% w/w)",
+          "packSize": "tube of 20 gm Rectal Cream",
+          "price": "145.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hbpfkdeafbynmeh8kovy.jpg",
+          "url": "https://www.1mg.com/drugs/anovate-rectal-cream-63345"
+        },
+        {
+          "id": 31,
+          "letter": "A",
+          "name": "Alkasol Oral Solution",
+          "formula": "Disodium Hydrogen Citrate (1.4gm/5ml)",
+          "packSize": "bottle of 100 ml Oral Solution",
+          "price": "140.77",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/t5aqptskylpcb4psipmn.jpg",
+          "url": "https://www.1mg.com/drugs/alkasol-oral-solution-4967"
+        },
+        {
+          "id": 32,
+          "letter": "A",
+          "name": "Allegra 180mg Tablet",
+          "formula": "Fexofenadine (180mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "283.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0954ecc18acb4ff8986a4dafa7bba634.jpg",
+          "url": "https://www.1mg.com/drugs/allegra-180mg-tablet-9187"
+        },
+        {
+          "id": 33,
+          "letter": "A",
+          "name": "ASTHAlin Syrup",
+          "formula": "Salbutamol (2mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "18.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/370d677ebf334de882b831e72b176941.jpg",
+          "url": "https://www.1mg.com/drugs/asthalin-syrup-69589"
+        },
+        {
+          "id": 34,
+          "letter": "A",
+          "name": "Asthakind-DX Syrup Sugar Free",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)",
+          "packSize": "bottle of 60 ml Syrup",
+          "price": "79.85",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/407aecca65ab4742a9725521ece5e3a2.jpg",
+          "url": "https://www.1mg.com/drugs/asthakind-dx-syrup-sugar-free-149334"
+        },
+        {
+          "id": 35,
+          "letter": "A",
+          "name": "Alprax 0.25 Tablet",
+          "formula": "Alprazolam (0.25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "36.09",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/114b0dcb521e45538fb691876d68b613.jpg",
+          "url": "https://www.1mg.com/drugs/alprax-0.25-tablet-69430"
+        },
+        {
+          "id": 36,
+          "letter": "A",
+          "name": "Amlokind-AT Tablet",
+          "formula": "Amlodipine (5mg) + Atenolol (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "55.62",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/50ff2cbcc0fd435aa79d8d2b2e69f979.jpg",
+          "url": "https://www.1mg.com/drugs/amlokind-at-tablet-648536"
+        },
+        {
+          "id": 37,
+          "letter": "A",
+          "name": "aldactone Tablet",
+          "formula": "Spironolactone (25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "34.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/93cbcb82a35246e0b16265a552db9eb3.jpg",
+          "url": "https://www.1mg.com/drugs/aldactone-tablet-116839"
+        },
+        {
+          "id": 38,
+          "letter": "A",
+          "name": "Altraday Capsule SR",
+          "formula": "Aceclofenac (200mg) + Rabeprazole (20mg)",
+          "packSize": "strip of 10 capsule sr",
+          "price": "131.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tqux8ccp05qx3npvxex9.jpg",
+          "url": "https://www.1mg.com/drugs/altraday-capsule-sr-63221"
+        },
+        {
+          "id": 39,
+          "letter": "A",
+          "name": "Althrocin 500 Tablet",
+          "formula": "Erythromycin (500mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "135.84",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/anugrgvegh7wmftq5gtz.jpg",
+          "url": "https://www.1mg.com/drugs/althrocin-500-tablet-121422"
+        },
+        {
+          "id": 40,
+          "letter": "A",
+          "name": "Ativan 2mg Tablet",
+          "formula": "Lorazepam (2mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "89.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ativan-2mg-tablet-236513"
+        },
+        {
+          "id": 41,
+          "letter": "A",
+          "name": "Ambrodil-S Syrup",
+          "formula": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "36.56",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/89d9d27842164578ac3b58a095c264b9.jpg",
+          "url": "https://www.1mg.com/drugs/ambrodil-s-syrup-161343"
+        },
+        {
+          "id": 42,
+          "letter": "A",
+          "name": "Aricep 10 Tablet",
+          "formula": "Donepezil (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "186.09",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ieru31gjjrapcgk3ocq1.jpg",
+          "url": "https://www.1mg.com/drugs/aricep-10-tablet-5608"
+        },
+        {
+          "id": 43,
+          "letter": "A",
+          "name": "Aricep-M Tablet",
+          "formula": "Donepezil (5mg) + Memantine (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "163.13",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/84c400da36c3488db118600617105cbb.jpg",
+          "url": "https://www.1mg.com/drugs/aricep-m-tablet-329805"
+        },
+        {
+          "id": 44,
+          "letter": "A",
+          "name": "ASTHAlin 100mcg Inhaler",
+          "formula": "Salbutamol (100mcg)",
+          "packSize": "packet of 200 MDI Inhaler",
+          "price": "168.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a63182c8d4b9446088a3c44fbc7b2c37.jpg",
+          "url": "https://www.1mg.com/drugs/asthalin-100mcg-inhaler-141944"
+        },
+        {
+          "id": 45,
+          "letter": "A",
+          "name": "Axcer 90mg Tablet",
+          "formula": "Ticagrelor (90mg)",
+          "packSize": "strip of 14 tablets",
+          "price": "491.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/502052a0617248ca8722284828a35bec.jpg",
+          "url": "https://www.1mg.com/drugs/axcer-90mg-tablet-324040"
+        },
+        {
+          "id": 46,
+          "letter": "A",
+          "name": "Aldigesic P 100mg/325mg Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "119.05",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/96515acd8db646339c72f0b336cb23ed.jpg",
+          "url": "https://www.1mg.com/drugs/aldigesic-p-100mg-325mg-tablet-542927"
+        },
+        {
+          "id": 47,
+          "letter": "A",
+          "name": "Atarax Syrup",
+          "formula": "Hydroxyzine (10mg)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "137.34",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pgf7pdat9zfpiqq0gjn3.jpg",
+          "url": "https://www.1mg.com/drugs/atarax-syrup-228589"
+        },
+        {
+          "id": 48,
+          "letter": "A",
+          "name": "AB-Flo-N Tablet",
+          "formula": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "252",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rgrgyhybk3nt2uhavftk.jpg",
+          "url": "https://www.1mg.com/drugs/ab-flo-n-tablet-338468"
+        },
+        {
+          "id": 49,
+          "letter": "A",
+          "name": "Augmentin DDS Suspension",
+          "formula": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml)",
+          "packSize": "bottle of 30 ml Oral Suspension",
+          "price": "196.1",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/35fedc27449447a1a6a22f0e5c437f81.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-dds-suspension-63460"
+        },
+        {
+          "id": 50,
+          "letter": "A",
+          "name": "Alex Cough Lozenges Lemon Ginger",
+          "formula": "Dextromethorphan Hydrobromide (5mg)",
+          "packSize": "strip of 10 lozenges",
+          "price": "120.94",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lanqymfxewwnifdaxrhx.jpg",
+          "url": "https://www.1mg.com/drugs/alex-cough-lozenges-lemon-ginger-144921"
+        },
+        {
+          "id": 51,
+          "letter": "A",
+          "name": "Aceclo Plus Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "106.88",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jkypc0jhxqkhvr8uguul.jpg",
+          "url": "https://www.1mg.com/drugs/aceclo-plus-tablet-68674"
+        },
+        {
+          "id": 52,
+          "letter": "A",
+          "name": "Aciloc RD 20 Tablet",
+          "formula": "Domperidone (10mg) + Omeprazole (20mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "94.69",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/epbgofppoky6cermgzyx.png",
+          "url": "https://www.1mg.com/drugs/aciloc-rd-20-tablet-643918"
+        },
+        {
+          "id": 53,
+          "letter": "A",
+          "name": "Arachitol 6L Injection",
+          "formula": "Vitamin D3 (600000IU)",
+          "packSize": "packet of 6 injections",
+          "price": "508.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/defd8e0ca8a04e19a305146ec9c0e78e.jpg",
+          "url": "https://www.1mg.com/drugs/arachitol-6l-injection-323178"
+        },
+        {
+          "id": 54,
+          "letter": "A",
+          "name": "Autrin Hematinic Capsule with Cyanocobalamin, Iron & Folic Acid",
+          "formula": "Iron (98.6mg) + Cyanocobalamin (15mcg) + Folic Acid (1.5mg)",
+          "packSize": "strip of 30 capsules",
+          "price": "205.28",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ed8mkykpj9xtyyd8ki48.jpg",
+          "url": "https://www.1mg.com/drugs/autrin-hematinic-capsule-with-cyanocobalamin-iron-folic-acid-63464"
+        },
+        {
+          "id": 55,
+          "letter": "A",
+          "name": "AB Phylline N Tablet",
+          "formula": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "235.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nq1fzkhlj8ih77rrp613.jpg",
+          "url": "https://www.1mg.com/drugs/ab-phylline-n-tablet-353332"
+        },
+        {
+          "id": 56,
+          "letter": "A",
+          "name": "Atarax 10mg Tablet",
+          "formula": "Hydroxyzine (10mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "59.53",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e12bf2b7bb66433a92cae233a4088b68.jpg",
+          "url": "https://www.1mg.com/drugs/atarax-10mg-tablet-228392"
+        },
+        {
+          "id": 57,
+          "letter": "A",
+          "name": "Aldigesic-SP Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "123.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3012fd4c90714d4c8aed02ab6f6708a4.jpg",
+          "url": "https://www.1mg.com/drugs/aldigesic-sp-tablet-146166"
+        },
+        {
+          "id": 58,
+          "letter": "A",
+          "name": "Anobliss Cream",
+          "formula": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
+          "packSize": "tube of 30 gm Rectal Cream",
+          "price": "153.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e60601b2f56e4876bb6f9aa090e9abcf.jpg",
+          "url": "https://www.1mg.com/drugs/anobliss-cream-145210"
+        },
+        {
+          "id": 59,
+          "letter": "A",
+          "name": "Ascoril LS Junior Syrup",
+          "formula": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
+          "packSize": "bottle of 60 ml Syrup",
+          "price": "99.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/exek7p354rrqgtlbjwp0.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-ls-junior-syrup-340445"
+        },
+        {
+          "id": 60,
+          "letter": "A",
+          "name": "Ascoril LS Drops",
+          "formula": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml)",
+          "packSize": "bottle of 15 ml Oral Drops",
+          "price": "88.13",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/waoglp086qzmryuks8dt.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-ls-drops-119912"
+        },
+        {
+          "id": 61,
+          "letter": "A",
+          "name": "Azithral 200 Liquid",
+          "formula": "Azithromycin (200mg/5ml)",
+          "packSize": "bottle of 15 ml Oral Suspension",
+          "price": "54.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zstzbmfxqxarvwvsdz1o.jpg",
+          "url": "https://www.1mg.com/drugs/azithral-200-liquid-134462"
+        },
+        {
+          "id": 62,
+          "letter": "A",
+          "name": "Anafortan 25mg/300mg Tablet",
+          "formula": "Camylofin (25mg) + Paracetamol (300mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "85.41",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c59e1dd1791f4c9f87a3e27576670364.jpg",
+          "url": "https://www.1mg.com/drugs/anafortan-25mg-300mg-tablet-152333"
+        },
+        {
+          "id": 63,
+          "letter": "A",
+          "name": "AF Kit Tablet",
+          "formula": "Azithromycin (1000mg) + Ornidazole (750mg) + Fluconazole (150mg)",
+          "packSize": "strip of 4 tablets",
+          "price": "107.81",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/do8qsf2s9vsxi6naeio0.jpg",
+          "url": "https://www.1mg.com/drugs/af-kit-tablet-68739"
+        },
+        {
+          "id": 64,
+          "letter": "A",
+          "name": "Aziderm 20% Cream",
+          "formula": "Azelaic Acid (20% w/w)",
+          "packSize": "tube of 15 gm Cream",
+          "price": "347.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bcb6fe0bb07846cdae4bd751711b79d7.jpg",
+          "url": "https://www.1mg.com/drugs/aziderm-20-cream-58521"
+        },
+        {
+          "id": 65,
+          "letter": "A",
+          "name": "Alfoo 10mg Tablet PR",
+          "formula": "Alfuzosin (10mg)",
+          "packSize": "strip of 30 Tablet pr",
+          "price": "857.81",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/whj0bmxf56jlaf0g9xxj.jpg",
+          "url": "https://www.1mg.com/drugs/alfoo-10mg-tablet-pr-131698"
+        },
+        {
+          "id": 66,
+          "letter": "A",
+          "name": "Alprax 0.5mg Tablet",
+          "formula": "Alprazolam (0.5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "74.05",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/alprax-0.5mg-tablet-68773"
+        },
+        {
+          "id": 67,
+          "letter": "A",
+          "name": "AMLOkind 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "23.67",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yfyc3mbdtelixrk9knau.png",
+          "url": "https://www.1mg.com/drugs/amlokind-5-tablet-665338"
+        },
+        {
+          "id": 68,
+          "letter": "A",
+          "name": "Amoxycillin 500mg Capsule",
+          "formula": "Amoxycillin (500mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "29.91",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/amoxycillin-500mg-capsule-175275"
+        },
+        {
+          "id": 69,
+          "letter": "A",
+          "name": "Aziderm 10% Cream",
+          "formula": "Azelaic Acid (10% w/w)",
+          "packSize": "tube of 15 gm Cream",
+          "price": "331.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e72gh4m4douuoko5f52e.jpg",
+          "url": "https://www.1mg.com/drugs/aziderm-10-cream-58520"
+        },
+        {
+          "id": 70,
+          "letter": "A",
+          "name": "Azicip 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 3 tablets",
+          "price": "75.53",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uzeffwecaxtq7c7skcxc.png",
+          "url": "https://www.1mg.com/drugs/azicip-500-tablet-263487"
+        },
+        {
+          "id": 71,
+          "letter": "A",
+          "name": "Allegra Suspension Raspberry & Vanilla",
+          "formula": "Fexofenadine (30mg/5ml)",
+          "packSize": "bottle of 100 ml Oral Suspension",
+          "price": "235.5",
+          "image": "https://onemg.gumlet.io/l_watermark_346,w_380,h_380/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pharmacy-production-rxs%2F1755682416_Suspension-100ml_1.png",
+          "url": "https://www.1mg.com/drugs/allegra-suspension-raspberry-vanilla-114550"
+        },
+        {
+          "id": 72,
+          "letter": "A",
+          "name": "Akurit 4 Tablet",
+          "formula": "Isoniazid (75mg) + Rifampicin (150mg) + Ethambutol (275mg) + Pyrazinamide (400mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "93.56",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vesmx9t7sxta2umdu2lw.jpg",
+          "url": "https://www.1mg.com/drugs/akurit-4-tablet-147003"
+        },
+        {
+          "id": 73,
+          "letter": "A",
+          "name": "AB Phylline SR 200 Tablet",
+          "formula": "Acebrophylline (200mg)",
+          "packSize": "strip of 10 tablet sr",
+          "price": "284.06",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e9aivvlsk0hystzxxzeh.jpg",
+          "url": "https://www.1mg.com/drugs/ab-phylline-sr-200-tablet-58272"
+        },
+        {
+          "id": 74,
+          "letter": "A",
+          "name": "Ambrodil Syrup",
+          "formula": "Ambroxol (30mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "84.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e86a892c71cd4112bdde0375264f117f.jpg",
+          "url": "https://www.1mg.com/drugs/ambrodil-syrup-141454"
+        },
+        {
+          "id": 75,
+          "letter": "A",
+          "name": "Adaferin Gel",
+          "formula": "Adapalene (0.1% w/w)",
+          "packSize": "tube of 15 gm Gel",
+          "price": "346.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nwikreagmmdybxdjfhpg.jpg",
+          "url": "https://www.1mg.com/drugs/adaferin-gel-123250"
+        },
+        {
+          "id": 76,
+          "letter": "A",
+          "name": "Aquasol A Capsule",
+          "formula": "Vitamin A (25000IU)",
+          "packSize": "Aquasol A Capsule\nbottle of 30 capsules\nUSV Private Limited\nVitamin A (25000IU)\n₹ 36.86\nADD",
+          "price": "36.86",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bbcfa28868c54f4b81ae273068330a6b.jpg",
+          "url": "https://www.1mg.com/drugs/aquasol-a-capsule-163078"
+        },
+        {
+          "id": 77,
+          "letter": "A",
+          "name": "Acemiz Plus Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "135.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xuyvggkruu6ys7mj9kaq.jpg",
+          "url": "https://www.1mg.com/drugs/acemiz-plus-tablet-141922"
+        },
+        {
+          "id": 78,
+          "letter": "A",
+          "name": "ASTHAlin Respules",
+          "formula": "Salbutamol (2.5mg)",
+          "packSize": "packet of 2.5 ml Respules",
+          "price": "8.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5894a359bfdb4e789a7f7e4571275182.jpg",
+          "url": "https://www.1mg.com/drugs/asthalin-respules-341377"
+        },
+        {
+          "id": 79,
+          "letter": "A",
+          "name": "AVil Injection",
+          "formula": "Pheniramine (22.75mg/ml)",
+          "packSize": "N/A",
+          "price": "22.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/snzimalophh5zhb2vzla.jpg",
+          "url": "https://www.1mg.com/drugs/avil-injection-344388"
+        },
+        {
+          "id": 80,
+          "letter": "A",
+          "name": "Aptimust Syrup",
+          "formula": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
+          "packSize": "bottle of 200 ml Syrup",
+          "price": "149.05",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/owevhqwzv4gkymzr3nkm.jpg",
+          "url": "https://www.1mg.com/drugs/aptimust-syrup-158117"
+        },
+        {
+          "id": 81,
+          "letter": "A",
+          "name": "Amixide-H Tablet",
+          "formula": "Amitriptyline (12.5mg) + Chlordiazepoxide (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "62.81",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/x7cbfvbmvcxkhfwp7zcq.jpg",
+          "url": "https://www.1mg.com/drugs/amixide-h-tablet-154342"
+        },
+        {
+          "id": 82,
+          "letter": "A",
+          "name": "Azax 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 3 tablets",
+          "price": "75.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/54dffaa3a5504630881529bb18a9bdb5.jpg",
+          "url": "https://www.1mg.com/drugs/azax-500-tablet-47676"
+        },
+        {
+          "id": 83,
+          "letter": "A",
+          "name": "Angispan Angispan-TR 2.5mg Capsule",
+          "formula": "Nitroglycerin (2.5mg)",
+          "packSize": "bottle of 25 capsule tr",
+          "price": "269.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/df421897566d48a4bddcf099af042bcb.jpg",
+          "url": "https://www.1mg.com/drugs/angispan-angispan-tr-2.5mg-capsule-69553"
+        },
+        {
+          "id": 84,
+          "letter": "A",
+          "name": "aLEX junior Syrup",
+          "formula": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml)",
+          "packSize": "bottle of 60 ml Syrup",
+          "price": "106.88",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vq93xkoc3dk37opxueif.jpg",
+          "url": "https://www.1mg.com/drugs/alex-junior-syrup-165376"
+        },
+        {
+          "id": 85,
+          "letter": "A",
+          "name": "Ambrodil-LX Syrup",
+          "formula": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "93.23",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tvqpmpt0mv7shq23ogfw.jpg",
+          "url": "https://www.1mg.com/drugs/ambrodil-lx-syrup-164207"
+        },
+        {
+          "id": 86,
+          "letter": "A",
+          "name": "Akt 4 Kit",
+          "formula": "Isoniazid (300mg) + Rifampicin (450mg) + Ethambutol (800mg) + Pyrazinamide (750mg)",
+          "packSize": "packet of 1 Kit",
+          "price": "30.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bif1zzkukawa7lcxikxk.jpg",
+          "url": "https://www.1mg.com/drugs/akt-4-kit-138868"
+        },
+        {
+          "id": 87,
+          "letter": "A",
+          "name": "Aziderm 10% Gel",
+          "formula": "Azelaic Acid (10% w/w)",
+          "packSize": "tube of 15 gm Gel",
+          "price": "259.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rl4elgt0azuzskorziem.jpg",
+          "url": "https://www.1mg.com/drugs/aziderm-10-gel-325075"
+        },
+        {
+          "id": 88,
+          "letter": "A",
+          "name": "Atorva 40 Tablet",
+          "formula": "Atorvastatin (40mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "206.18",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9d3d663d3c744eb5b07fa949495ea912.jpg",
+          "url": "https://www.1mg.com/drugs/atorva-40-tablet-46666"
+        },
+        {
+          "id": 89,
+          "letter": "A",
+          "name": "amiTONE 10mg Tablet",
+          "formula": "Amitriptyline (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "20.48",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b2997f8c0f24405aaade5f3371e0210e.jpg",
+          "url": "https://www.1mg.com/drugs/amitone-10mg-tablet-43621"
+        },
+        {
+          "id": 90,
+          "letter": "A",
+          "name": "Acitrom 2 Tablet",
+          "formula": "Acenocoumarol (2mg)",
+          "packSize": "Acitrom 2 Tablet\nPrescription Required\nstrip of 30 tablets\nAbbott\nAcenocoumarol (2mg)\n₹ 517.4\nADD",
+          "price": "517.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9303dc11dfe84bb8a61d5a5d3fa4bc19.jpg",
+          "url": "https://www.1mg.com/drugs/acitrom-2-tablet-113478"
+        },
+        {
+          "id": 91,
+          "letter": "A",
+          "name": "Antiflu 75mg Capsule",
+          "formula": "Oseltamivir Phosphate (75mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "906.79",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e5zrc5noh44fprp1osz1.jpg",
+          "url": "https://www.1mg.com/drugs/antiflu-75mg-capsule-25089"
+        },
+        {
+          "id": 92,
+          "letter": "A",
+          "name": "Augmentin 1000 Duo Tablet",
+          "formula": "Amoxycillin (875mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "681.98",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cuybf0pahgglup30nnum.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-1000-duo-tablet-163191"
+        },
+        {
+          "id": 93,
+          "letter": "A",
+          "name": "Asthakind-LS Expectorant Cola Sugar Free",
+          "formula": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+          "packSize": "bottle of 100 ml Expectorant",
+          "price": "109.21",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fy15zojih7ivwyptjyqv.jpg",
+          "url": "https://www.1mg.com/drugs/asthakind-ls-expectorant-cola-sugar-free-216083"
+        },
+        {
+          "id": 94,
+          "letter": "A",
+          "name": "Aciloc 300 Tablet",
+          "formula": "Ranitidine (300mg)",
+          "packSize": "strip of 20 tablets",
+          "price": "56.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eypngcuomkifu49im84m.jpg",
+          "url": "https://www.1mg.com/drugs/aciloc-300-tablet-111048"
+        },
+        {
+          "id": 95,
+          "letter": "A",
+          "name": "Acton-OR Tablet SR",
+          "formula": "Paracetamol (300mg) + Paracetamol (700mg)",
+          "packSize": "strip of 10 tablet ir",
+          "price": "62.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/87a29fe6-a405-4365-934e-890919363f0c.png",
+          "url": "https://www.1mg.com/drugs/acton-or-tablet-sr-255245"
+        },
+        {
+          "id": 96,
+          "letter": "A",
+          "name": "aztOR 10 Tablet",
+          "formula": "Atorvastatin (10mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "79.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/umnnywfgutk7tjgy40zi.jpg",
+          "url": "https://www.1mg.com/drugs/aztor-10-tablet-345047"
+        },
+        {
+          "id": 97,
+          "letter": "A",
+          "name": "Azee 200mg Dry Syrup Peppermint",
+          "formula": "Azithromycin (200mg/5ml)",
+          "packSize": "bottle of 15 ml Oral Suspension",
+          "price": "53.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bldhw0gkhewezofstegd.jpg",
+          "url": "https://www.1mg.com/drugs/azee-200mg-dry-syrup-peppermint-119959"
+        },
+        {
+          "id": 98,
+          "letter": "A",
+          "name": "Atorva Tablet",
+          "formula": "Atorvastatin (10mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "79.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/10581e0366ff4364bc6497556b453c34.jpg",
+          "url": "https://www.1mg.com/drugs/atorva-tablet-506170"
+        },
+        {
+          "id": 99,
+          "letter": "A",
+          "name": "Acemiz -MR Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (250mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "124.03",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pqf02whncvdseogk2mme.jpg",
+          "url": "https://www.1mg.com/drugs/acemiz-mr-tablet-303645"
+        },
+        {
+          "id": 100,
+          "letter": "A",
+          "name": "ASCoril plus Tablet",
+          "formula": "Guaifenesin (100mg) + Terbutaline (2.5mg) + Bromhexine (8mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "30.47",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ascoril-plus-tablet-248790"
+        },
+        {
+          "id": 101,
+          "letter": "A",
+          "name": "Asthakind-P Drops",
+          "formula": "Ambroxol (7.5mg) + Guaifenesin (12.5mg) + Terbutaline (0.25mg)",
+          "packSize": "bottle of 15 ml Oral Drops",
+          "price": "77.35",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a4492c1fc755468e8fb9ec7cbaa40e94.jpg",
+          "url": "https://www.1mg.com/drugs/asthakind-p-drops-145876"
+        },
+        {
+          "id": 102,
+          "letter": "A",
+          "name": "Admenta 5 Tablet",
+          "formula": "Memantine (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "131.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8e70f912b78c4f11a670069193acf790.jpg",
+          "url": "https://www.1mg.com/drugs/admenta-5-tablet-17666"
+        },
+        {
+          "id": 103,
+          "letter": "A",
+          "name": "Augmentin 1.2gm Injection",
+          "formula": "Amoxycillin (1000mg) + Clavulanic Acid (200mg)",
+          "packSize": "N/A",
+          "price": "150.24",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xzzfpmipebzil02clqts.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-1.2gm-injection-324901"
+        },
+        {
+          "id": 104,
+          "letter": "A",
+          "name": "Atarax Drops",
+          "formula": "Hydroxyzine (6mg)",
+          "packSize": "bottle of 15 ml Syrup",
+          "price": "86.48",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/111a94fa79844e9ebb1bb2adcef916c1.jpg",
+          "url": "https://www.1mg.com/drugs/atarax-drops-228834"
+        },
+        {
+          "id": 105,
+          "letter": "A",
+          "name": "AZEflo Nasal Spray",
+          "formula": "Fluticasone Furoate (50mcg) + Azelastine (140mcg)",
+          "packSize": "packet of 7 ml Nasal Spray",
+          "price": "523.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2607568a8adb4513a183fd0a39866982.jpg",
+          "url": "https://www.1mg.com/drugs/azeflo-nasal-spray-63478"
+        },
+        {
+          "id": 106,
+          "letter": "A",
+          "name": "Azee 250 Tablet",
+          "formula": "Azithromycin (250mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "124.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/26b5b58c5e244de985fcdf71fe348865.jpg",
+          "url": "https://www.1mg.com/drugs/azee-250-tablet-376370"
+        },
+        {
+          "id": 107,
+          "letter": "A",
+          "name": "aCOgut Tablet",
+          "formula": "Acotiamide (100mg)",
+          "packSize": "aCOgut Tablet\nPrescription Required\nstrip of 15 tablets\nLupin Ltd\nAcotiamide (100mg)\n₹ 328.3\nADD",
+          "price": "328.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6d151c72b3e04148ab548425a4afcbe0.jpg",
+          "url": "https://www.1mg.com/drugs/acogut-tablet-489087"
+        },
+        {
+          "id": 108,
+          "letter": "A",
+          "name": "Atorva 20 Tablet",
+          "formula": "Atorvastatin (20mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "201.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f5ee6427ac414830a31c6899ca31dec9.jpg",
+          "url": "https://www.1mg.com/drugs/atorva-20-tablet-513352"
+        },
+        {
+          "id": 109,
+          "letter": "A",
+          "name": "AntiD 300mcg/ml Injection",
+          "formula": "Anti Rh D Immunoglobulin (300mcg/ml)",
+          "packSize": "N/A",
+          "price": "4062",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vm8ue4fdnk75nwxn5xhm.jpg",
+          "url": "https://www.1mg.com/drugs/antid-300mcg-ml-injection-686358"
+        },
+        {
+          "id": 110,
+          "letter": "A",
+          "name": "ANXIT 0.5 Tablet",
+          "formula": "Alprazolam (0.5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "52.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xctcttdge87m3y7sapcg.jpg",
+          "url": "https://www.1mg.com/drugs/anxit-0.5-tablet-75550"
+        },
+        {
+          "id": 111,
+          "letter": "A",
+          "name": "Ascoril D Junior Cough Syrup",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 60 ml Syrup",
+          "price": "109.68",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/km3sh9h0nnx3mzysoxyu.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-d-junior-cough-syrup-198207"
+        },
+        {
+          "id": 112,
+          "letter": "A",
+          "name": "Amlopres-AT Tablet",
+          "formula": "Amlodipine (5mg) + Atenolol (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "185.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7e96c2e3108c4276b381288ed517f69a.jpg",
+          "url": "https://www.1mg.com/drugs/amlopres-at-tablet-63274"
+        },
+        {
+          "id": 113,
+          "letter": "A",
+          "name": "Acivir 400 DT Tablet",
+          "formula": "Acyclovir (400mg)",
+          "packSize": "strip of 5 tablet dt",
+          "price": "72.98",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uskuktuejzewbmvyn17h.jpg",
+          "url": "https://www.1mg.com/drugs/acivir-400-dt-tablet-212451"
+        },
+        {
+          "id": 114,
+          "letter": "A",
+          "name": "aceclo-MR Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "106.73",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/myks1zvzua3ytwqujzm2.jpg",
+          "url": "https://www.1mg.com/drugs/aceclo-mr-tablet-300312"
+        },
+        {
+          "id": 115,
+          "letter": "A",
+          "name": "Aerocort Inhaler",
+          "formula": "Levosalbutamol (50mcg) + Beclometasone (50mcg)",
+          "packSize": "packet of 200 MDI Inhaler",
+          "price": "341.59",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/z30f7jk8oxolgpa77anc.jpg",
+          "url": "https://www.1mg.com/drugs/aerocort-inhaler-163685"
+        },
+        {
+          "id": 116,
+          "letter": "A",
+          "name": "ASCoril plus Expectorant",
+          "formula": "Bromhexine (2mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (0.5mg/5ml) + Terbutaline (1.25mg/5ml)",
+          "packSize": "bottle of 200 ml Expectorant",
+          "price": "213.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ascoril-plus-expectorant-248592"
+        },
+        {
+          "id": 117,
+          "letter": "A",
+          "name": "ANXIT 0.25mg Tablet",
+          "formula": "Alprazolam (0.25mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "24.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7ba0a4b2120f458d88c18dd0af95624a.jpg",
+          "url": "https://www.1mg.com/drugs/anxit-0.25mg-tablet-69561"
+        },
+        {
+          "id": 118,
+          "letter": "A",
+          "name": "Amaryl 1mg Tablet",
+          "formula": "Glimepiride (1mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "118.44",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pjmz8pw6e3yb11rgt4bb.jpg",
+          "url": "https://www.1mg.com/drugs/amaryl-1mg-tablet-12155"
+        },
+        {
+          "id": 119,
+          "letter": "A",
+          "name": "acemiz-S Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "130.92",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cebjonzkvfpenitocfom.jpg",
+          "url": "https://www.1mg.com/drugs/acemiz-s-tablet-141365"
+        },
+        {
+          "id": 120,
+          "letter": "A",
+          "name": "Avanair 100 Tablet",
+          "formula": "Avanafil (100mg)",
+          "packSize": "Avanair 100 Tablet\nPrescription Required\nstrip of 4 tablets\nCipla Ltd\nAvanafil (100mg)\n₹ 249.5\nADD",
+          "price": "249.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/96d9ed50187b4d23aa01543d1d9e1638.jpg",
+          "url": "https://www.1mg.com/drugs/avanair-100-tablet-752005"
+        },
+        {
+          "id": 121,
+          "letter": "A",
+          "name": "Ambrodil-Plus RF Syrup",
+          "formula": "Ambroxol (15mg/5ml) + Pseudoephedrine (30mg/5ml) + Chlorpheniramine Maleate (2mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "100.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fb9237e35e8d4850ac77a56b2540177a.jpg",
+          "url": "https://www.1mg.com/drugs/ambrodil-plus-rf-syrup-340760"
+        },
+        {
+          "id": 122,
+          "letter": "A",
+          "name": "AMlip 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "AMlip 5 Tablet\nPrescription Required\nstrip of 10 tablets\nCipla Ltd\nAmlodipine (5mg)\n₹ 26.66\nADD",
+          "price": "26.66",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6c53eaa9e18245739551ca18719b8948.jpg",
+          "url": "https://www.1mg.com/drugs/amlip-5-tablet-43925"
+        },
+        {
+          "id": 123,
+          "letter": "A",
+          "name": "Aricep-M Forte Tablet",
+          "formula": "Donepezil (5mg) + Memantine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "225.94",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wt4ksk5epcoeuptvvb68.jpg",
+          "url": "https://www.1mg.com/drugs/aricep-m-forte-tablet-330558"
+        },
+        {
+          "id": 124,
+          "letter": "A",
+          "name": "Amikacin Sulphate 500mg Injection",
+          "formula": "Amikacin (500mg)",
+          "packSize": "N/A",
+          "price": "11.87",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/amikacin-sulphate-500mg-injection-43204"
+        },
+        {
+          "id": 125,
+          "letter": "A",
+          "name": "aldactone 50 Tablet",
+          "formula": "Spironolactone (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "69.96",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/67024d1013c04226b91ec203b160fba7.jpg",
+          "url": "https://www.1mg.com/drugs/aldactone-50-tablet-34406"
+        },
+        {
+          "id": 126,
+          "letter": "A",
+          "name": "AB-Flo SR Tablet",
+          "formula": "Acebrophylline (200mg)",
+          "packSize": "strip of 10 tablet sr",
+          "price": "278.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ps2mgpilee4bnddwpziz.jpg",
+          "url": "https://www.1mg.com/drugs/ab-flo-sr-tablet-245165"
+        },
+        {
+          "id": 127,
+          "letter": "A",
+          "name": "Alerid Syrup",
+          "formula": "Cetirizine (5mg/5ml)",
+          "packSize": "Alerid Syrup\nPrescription Required\nbottle of 30 ml Syrup\nCipla Ltd\nCetirizine (5mg/5ml)\n₹ 21.1\nADD",
+          "price": "21.1",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dv5knyewjc7swy0pcc4z.jpg",
+          "url": "https://www.1mg.com/drugs/alerid-syrup-55061"
+        },
+        {
+          "id": 128,
+          "letter": "A",
+          "name": "ANO-metrogyl Cream",
+          "formula": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w)",
+          "packSize": "tube of 20 gm Rectal Cream",
+          "price": "137.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/09c05f50-5c72-4ba8-9b36-4ef811dd30a1.png",
+          "url": "https://www.1mg.com/drugs/ano-metrogyl-cream-359157"
+        },
+        {
+          "id": 129,
+          "letter": "A",
+          "name": "Adrenaline Tartrate Injection",
+          "formula": "Adrenaline (NA)",
+          "packSize": "N/A",
+          "price": "13.61",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/adrenaline-tartrate-injection-242957"
+        },
+        {
+          "id": 130,
+          "letter": "A",
+          "name": "Amaryl 2mg Tablet",
+          "formula": "Glimepiride (2mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "185.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cbd37609b32d4c468f735ccf289eaa65.jpg",
+          "url": "https://www.1mg.com/drugs/amaryl-2mg-tablet-238268"
+        },
+        {
+          "id": 131,
+          "letter": "A",
+          "name": "Azmarda 50mg Tablet",
+          "formula": "Sacubitril (24mg) + Valsartan (26mg)",
+          "packSize": "strip of 14 tablets",
+          "price": "628.32",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c9e40e6c-ceed-472d-9bff-064154962c85.png",
+          "url": "https://www.1mg.com/drugs/azmarda-50mg-tablet-345285"
+        },
+        {
+          "id": 132,
+          "letter": "A",
+          "name": "Allercet-DC Tablet",
+          "formula": "Cetirizine (10mg) + Phenylephrine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sehzdls7yv3jurgafhrr.jpg",
+          "url": "https://www.1mg.com/drugs/allercet-dc-tablet-68765"
+        },
+        {
+          "id": 133,
+          "letter": "A",
+          "name": "Amifru 40 Tablet",
+          "formula": "Furosemide (40mg) + Amiloride (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "13.96",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lqtiqnbuskz7avc2xn51.jpg",
+          "url": "https://www.1mg.com/drugs/amifru-40-tablet-220178"
+        },
+        {
+          "id": 134,
+          "letter": "A",
+          "name": "Augmentin 375 Tablet",
+          "formula": "Amoxycillin (250mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "259.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lxylcqhhhty8pcmkpk2r.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-375-tablet-325424"
+        },
+        {
+          "id": 135,
+          "letter": "A",
+          "name": "Amaryl M 1mg Tablet PR",
+          "formula": "Glimepiride (1mg) + Metformin (500mg)",
+          "packSize": "strip of 20 Tablet pr",
+          "price": "275.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a63f810523f7498c8c77f45ad655c76a.jpg",
+          "url": "https://www.1mg.com/drugs/amaryl-m-1mg-tablet-pr-615784"
+        },
+        {
+          "id": 136,
+          "letter": "A",
+          "name": "Aztolet 10 Tablet",
+          "formula": "Atorvastatin (10mg) + Clopidogrel (75mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "210",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6d01e94da52347708d01947a4a21e012.jpg",
+          "url": "https://www.1mg.com/drugs/aztolet-10-tablet-229727"
+        },
+        {
+          "id": 137,
+          "letter": "A",
+          "name": "Amlodac 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "80.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ofppiaaekmastizpn9p0.jpg",
+          "url": "https://www.1mg.com/drugs/amlodac-5-tablet-369858"
+        },
+        {
+          "id": 138,
+          "letter": "A",
+          "name": "Ampoxin 500 Capsule",
+          "formula": "Ampicillin (250mg) + Cloxacillin (250mg)",
+          "packSize": "strip of 15 capsules",
+          "price": "110.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6647b98981604fbd94ae5562580a3555.jpg",
+          "url": "https://www.1mg.com/drugs/ampoxin-500-capsule-63311"
+        },
+        {
+          "id": 139,
+          "letter": "A",
+          "name": "Arney 50 Tablet",
+          "formula": "Sacubitril (24mg) + Valsartan (26mg)",
+          "packSize": "strip of 14 tablets",
+          "price": "284.06",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f985f7d828ca46f0996a77bb4e488626.jpg",
+          "url": "https://www.1mg.com/drugs/arney-50-tablet-838494"
+        },
+        {
+          "id": 140,
+          "letter": "A",
+          "name": "Alaspan AM Tablet",
+          "formula": "Ambroxol (60mg) + Loratadine (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "118.12",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0a8f7aa072eb45b3acf6f6771ffabd29.jpg",
+          "url": "https://www.1mg.com/drugs/alaspan-am-tablet-141462"
+        },
+        {
+          "id": 141,
+          "letter": "A",
+          "name": "AVil Injection",
+          "formula": "Pheniramine (22.75mg/ml)",
+          "packSize": "N/A",
+          "price": "5.86",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1781b01b4c734cb69bd05467f0e47fe6.jpg",
+          "url": "https://www.1mg.com/drugs/avil-injection-241707"
+        },
+        {
+          "id": 142,
+          "letter": "A",
+          "name": "Alaspan Tablet",
+          "formula": "Loratadine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "160.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c2f335b1149b459ea7251e96abdaaa46.jpg",
+          "url": "https://www.1mg.com/drugs/alaspan-tablet-122189"
+        },
+        {
+          "id": 143,
+          "letter": "A",
+          "name": "Alkof DX Syrup",
+          "formula": "Chlorpheniramine Maleate (4mg) + Dextromethorphan Hydrobromide (10mg)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "120.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/18831d1c45384a928d308f54790a16c5.jpg",
+          "url": "https://www.1mg.com/drugs/alkof-dx-syrup-156428"
+        },
+        {
+          "id": 144,
+          "letter": "A",
+          "name": "Amantrel Tablet",
+          "formula": "Amantadine (100mg)",
+          "packSize": "Amantrel Tablet\nPrescription Required\nstrip of 15 tablets\nCipla Ltd\nAmantadine (100mg)\n₹ 277.3\nADD",
+          "price": "277.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ec96fa75615a404f9ebb1b88c1b3ce71.jpg",
+          "url": "https://www.1mg.com/drugs/amantrel-tablet-535640"
+        },
+        {
+          "id": 145,
+          "letter": "A",
+          "name": "Ace Proxyvon Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "90.23",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/id8kjiitdcks6opjgu9e.png",
+          "url": "https://www.1mg.com/drugs/ace-proxyvon-tablet-333029"
+        },
+        {
+          "id": 146,
+          "letter": "A",
+          "name": "Amaryl M 2mg Tablet PR",
+          "formula": "Glimepiride (2mg) + Metformin (500mg)",
+          "packSize": "strip of 20 Tablet pr",
+          "price": "453.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/de27a713e0324905868e4adcc6efe9d8.jpg",
+          "url": "https://www.1mg.com/drugs/amaryl-m-2mg-tablet-pr-624176"
+        },
+        {
+          "id": 147,
+          "letter": "A",
+          "name": "AMLOvas 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "40",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sbrqub5xygqskz5yt2v0.jpg",
+          "url": "https://www.1mg.com/drugs/amlovas-5-tablet-135645"
+        },
+        {
+          "id": 148,
+          "letter": "A",
+          "name": "AF 150 Tablet DT",
+          "formula": "Fluconazole (150mg)",
+          "packSize": "strip of 1 Tablet DT",
+          "price": "12.21",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/apsgjrdmkbpvjuiuozta.jpg",
+          "url": "https://www.1mg.com/drugs/af-150-tablet-dt-166299"
+        },
+        {
+          "id": 149,
+          "letter": "A",
+          "name": "Advent 228.5mg Dry Syrup",
+          "formula": "Amoxycillin (200mg) + Clavulanic Acid (28.5mg)",
+          "packSize": "bottle of 60 ml Dry Syrup",
+          "price": "129.78",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/htnekrtep3rvkpu0qouk.jpg",
+          "url": "https://www.1mg.com/drugs/advent-228.5mg-dry-syrup-180337"
+        },
+        {
+          "id": 150,
+          "letter": "A",
+          "name": "Aquazide 12.5 Tablet",
+          "formula": "Hydrochlorothiazide (12.5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "11.1",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/omtxwaegwwrb2i2cqedx.jpg",
+          "url": "https://www.1mg.com/drugs/aquazide-12.5-tablet-12824"
+        },
+        {
+          "id": 151,
+          "letter": "A",
+          "name": "Asthakind-DX Junior Syrup Cherry",
+          "formula": "Phenylephrine (2.5mg/5ml) + Chlorpheniramine Maleate (1mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml)",
+          "packSize": "bottle of 60 ml Syrup",
+          "price": "75.48",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/aaka0xrjypoqhe5x19iz.jpg",
+          "url": "https://www.1mg.com/drugs/asthakind-dx-junior-syrup-cherry-679794"
+        },
+        {
+          "id": 152,
+          "letter": "A",
+          "name": "Alex Syrup Sugar Free",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "158.43",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vfyjmg1oge49e0znodka.jpg",
+          "url": "https://www.1mg.com/drugs/alex-syrup-sugar-free-329204"
+        },
+        {
+          "id": 153,
+          "letter": "A",
+          "name": "aCOgut 300 ER Tablet",
+          "formula": "Acotiamide (300mg)",
+          "packSize": "strip of 10 tablet er",
+          "price": "527.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fbbe2ea116c240bba23d035d7efaec49.jpg",
+          "url": "https://www.1mg.com/drugs/acogut-300-er-tablet-636217"
+        },
+        {
+          "id": 154,
+          "letter": "A",
+          "name": "Alerid-D Tablet",
+          "formula": "Cetirizine (5mg) + Phenylephrine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "59.77",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/n2aqymoxc4pyfk0witcu.jpg",
+          "url": "https://www.1mg.com/drugs/alerid-d-tablet-63164"
+        },
+        {
+          "id": 155,
+          "letter": "A",
+          "name": "Atorlip-F Tablet",
+          "formula": "Atorvastatin (10mg) + Fenofibrate (145mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "457.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dd6a671061964e8a85d8e02ea81ad292.jpg",
+          "url": "https://www.1mg.com/drugs/atorlip-f-tablet-330974"
+        },
+        {
+          "id": 156,
+          "letter": "A",
+          "name": "Alerid Tablet",
+          "formula": "Cetirizine (10mg)",
+          "packSize": "Alerid Tablet\nPrescription Required\nstrip of 10 tablets\nCipla Ltd\nCetirizine (10mg)\n₹ 20.05\nADD",
+          "price": "20.05",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dvxd4vtcevu4acea5wlg.jpg",
+          "url": "https://www.1mg.com/drugs/alerid-tablet-67683"
+        },
+        {
+          "id": 157,
+          "letter": "A",
+          "name": "Avamys Nasal Spray",
+          "formula": "Fluticasone Furoate (0.05% w/w)",
+          "packSize": "packet of 10 gm Nasal Spray",
+          "price": "417",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f81fyu3vnxaoxukto8ti.jpg",
+          "url": "https://www.1mg.com/drugs/avamys-nasal-spray-217094"
+        },
+        {
+          "id": 158,
+          "letter": "A",
+          "name": "ACEnac-MR Tablet",
+          "formula": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "251.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/amehgtzlb1csox4sqyon.jpg",
+          "url": "https://www.1mg.com/drugs/acenac-mr-tablet-168470"
+        },
+        {
+          "id": 159,
+          "letter": "A",
+          "name": "Ambrolite-S Expectorant",
+          "formula": "Ambroxol (30mg) + Guaifenesin (50mg) + Menthol (0.5mg) + Terbutaline (1.25mg)",
+          "packSize": "bottle of 100 ml Expectorant",
+          "price": "130.78",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5d83043c04da4777bf467159413586b5.jpg",
+          "url": "https://www.1mg.com/drugs/ambrolite-s-expectorant-63241"
+        },
+        {
+          "id": 160,
+          "letter": "A",
+          "name": "Ampilox Capsule",
+          "formula": "Ampicillin (250mg) + Dicloxacillin (250mg)",
+          "packSize": "strip of 15 capsules",
+          "price": "171.65",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/15846cc4395c41ef9361a22f145c79cc.jpg",
+          "url": "https://www.1mg.com/drugs/ampilox-capsule-641060"
+        },
+        {
+          "id": 161,
+          "letter": "A",
+          "name": "Arnicor 50 Tablet",
+          "formula": "Sacubitril (24mg) + Valsartan (26mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "226.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/54f539ec91904b5da57d2ee1dcd3b7ce.jpg",
+          "url": "https://www.1mg.com/drugs/arnicor-50-tablet-830028"
+        },
+        {
+          "id": 162,
+          "letter": "A",
+          "name": "Aldosmin 1000mg Tablet",
+          "formula": "Diosmin (900mg) + Hesperidin (100mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "267.19",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b8a44151eafb4a149e2162e4c9b93701.jpg",
+          "url": "https://www.1mg.com/drugs/aldosmin-1000mg-tablet-609767"
+        },
+        {
+          "id": 163,
+          "letter": "A",
+          "name": "Abevia-N Tablet",
+          "formula": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "172.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6978966a608a4ab4b36723c36f386a1e.jpg",
+          "url": "https://www.1mg.com/drugs/abevia-n-tablet-705195"
+        },
+        {
+          "id": 164,
+          "letter": "A",
+          "name": "Ascoril C Syrup",
+          "formula": "Chlorpheniramine Maleate (4mg) + Codeine (10mg)",
+          "packSize": "bottle of 120 ml Syrup",
+          "price": "178.59",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ascoril-c-syrup-265717"
+        },
+        {
+          "id": 165,
+          "letter": "A",
+          "name": "Amrox-LS Syrup",
+          "formula": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg)",
+          "packSize": "bottle of 60 ml Expectorant",
+          "price": "70.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bbd21c803d674063a1ba303e0df147bf.jpg",
+          "url": "https://www.1mg.com/drugs/amrox-ls-syrup-398552"
+        },
+        {
+          "id": 166,
+          "letter": "A",
+          "name": "ALTonil 3mg Tablet",
+          "formula": "Melatonin (3mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "84.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2e88509c210445a7a0a366e119eb974a.jpg",
+          "url": "https://www.1mg.com/drugs/altonil-3mg-tablet-693993"
+        },
+        {
+          "id": 167,
+          "letter": "A",
+          "name": "Acitrom 1 Tablet",
+          "formula": "Acenocoumarol (1mg)",
+          "packSize": "Acitrom 1 Tablet\nPrescription Required\nstrip of 30 tablets\nAbbott\nAcenocoumarol (1mg)\n₹ 330.34\nADD",
+          "price": "330.34",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6223e381c8174369bedb380c6ef9733b.jpg",
+          "url": "https://www.1mg.com/drugs/acitrom-1-tablet-74710"
+        },
+        {
+          "id": 168,
+          "letter": "A",
+          "name": "Alkof Syrup",
+          "formula": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "87.19",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ca6d71c1b0494917bc0b86f978067151.jpg",
+          "url": "https://www.1mg.com/drugs/alkof-syrup-289371"
+        },
+        {
+          "id": 169,
+          "letter": "A",
+          "name": "A Kare Combipack",
+          "formula": "Mifepristone (200mg) + Misoprostol (200mcg)",
+          "packSize": "A Kare Combipack",
+          "price": "557.81",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/a-kare-combipack-153420"
+        },
+        {
+          "id": 170,
+          "letter": "A",
+          "name": "Abhayrab Vaccine",
+          "formula": "Rabies vaccine, Human (2.5IU)",
+          "packSize": "N/A",
+          "price": "404.57",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0c8079aff1694bcfa561b5d8c7826fa3.jpg",
+          "url": "https://www.1mg.com/drugs/abhayrab-vaccine-37993"
+        },
+        {
+          "id": 171,
+          "letter": "A",
+          "name": "Azikem 500mg Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 3 tablets",
+          "price": "75.52",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/068742fb90ea4966acfc2331dd2c140e.jpg",
+          "url": "https://www.1mg.com/drugs/azikem-500mg-tablet-279137"
+        },
+        {
+          "id": 172,
+          "letter": "A",
+          "name": "Asomex 2.5 Tablet",
+          "formula": "S-Amlodipine (2.5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "98.63",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c452n7colx7xckcxejmj.jpg",
+          "url": "https://www.1mg.com/drugs/asomex-2.5-tablet-325606"
+        },
+        {
+          "id": 173,
+          "letter": "A",
+          "name": "Alkof Cofgel Tablet",
+          "formula": "Guaifenesin (NA) + Bromhexine (NA) + Chlorpheniramine Maleate (NA) + Dextromethorphan Hydrobromide (NA)",
+          "packSize": "strip of 10 tablets",
+          "price": "26.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/alkof-cofgel-tablet-282345"
+        },
+        {
+          "id": 174,
+          "letter": "A",
+          "name": "AF 400 Tablet",
+          "formula": "Fluconazole (400mg)",
+          "packSize": "strip of 1 Tablet",
+          "price": "27.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gbpjqil7p25huv94lxjl.jpg",
+          "url": "https://www.1mg.com/drugs/af-400-tablet-9573"
+        },
+        {
+          "id": 175,
+          "letter": "A",
+          "name": "Aten 50 Tablet",
+          "formula": "Atenolol (50mg)",
+          "packSize": "Aten 50 Tablet\nPrescription Required\nstrip of 14 tablets\nZydus Cadila\nAtenolol (50mg)\n₹ 38.72\nADD",
+          "price": "38.72",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/031c21eacaed4ba1baa5f38d539f982f.jpg",
+          "url": "https://www.1mg.com/drugs/aten-50-tablet-134545"
+        },
+        {
+          "id": 176,
+          "letter": "A",
+          "name": "Angiplat 2.5 Capsule TR",
+          "formula": "Nitroglycerin (2.5mg)",
+          "packSize": "bottle of 25 capsule tr",
+          "price": "198.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d867a74ce49448128137ecd224dc2113.jpg",
+          "url": "https://www.1mg.com/drugs/angiplat-2.5-capsule-tr-134444"
+        },
+        {
+          "id": 177,
+          "letter": "A",
+          "name": "Aldosmin 500mg Tablet",
+          "formula": "Diosmin (450mg) + Hesperidin (50mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "168.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1185d7bb35f4465abbe51e9378c31694.jpg",
+          "url": "https://www.1mg.com/drugs/aldosmin-500mg-tablet-609979"
+        },
+        {
+          "id": 178,
+          "letter": "A",
+          "name": "Ascoril SF Expectorant",
+          "formula": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
+          "packSize": "bottle of 100 ml Expectorant",
+          "price": "165.47",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/84e72547911d46f0a5ffac2317ef2877.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-sf-expectorant-142051"
+        },
+        {
+          "id": 179,
+          "letter": "A",
+          "name": "Amlosafe 3D Tablet",
+          "formula": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
+          "packSize": "strip of 7 tablets",
+          "price": "81.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cd1d312e7a8a487a953dea0400cf8e5a.jpg",
+          "url": "https://www.1mg.com/drugs/amlosafe-3d-tablet-201874"
+        },
+        {
+          "id": 180,
+          "letter": "A",
+          "name": "Aceclo Sera 100mg/325mg/15mg Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "117.19",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lj0ygk7h3ptfoovxzvou.jpg",
+          "url": "https://www.1mg.com/drugs/aceclo-sera-100mg-325mg-15mg-tablet-146548"
+        },
+        {
+          "id": 181,
+          "letter": "A",
+          "name": "Aquaviron Injection 1ml",
+          "formula": "Testosterone (25mg)",
+          "packSize": "N/A",
+          "price": "242.67",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fd9eede1344443df8be32d2ae8d9c0b0.jpg",
+          "url": "https://www.1mg.com/drugs/aquaviron-injection-1ml-182339"
+        },
+        {
+          "id": 182,
+          "letter": "A",
+          "name": "Air-M Tablet",
+          "formula": "Montelukast (10mg) + Fexofenadine (120mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "67.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/da065f66211246eda149fe76242a10b9.jpg",
+          "url": "https://www.1mg.com/drugs/air-m-tablet-560302"
+        },
+        {
+          "id": 183,
+          "letter": "A",
+          "name": "Azulix 1 MF Tablet PR",
+          "formula": "Glimepiride (1mg) + Metformin (500mg)",
+          "packSize": "strip of 15 Tablet pr",
+          "price": "169.95",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/23e3001bf16c4ff694e57e4bb199452f.jpg",
+          "url": "https://www.1mg.com/drugs/azulix-1-mf-tablet-pr-337905"
+        },
+        {
+          "id": 184,
+          "letter": "A",
+          "name": "Andre I-Kul Eye Drop",
+          "formula": "Camphor (0.01% w/v) + Menthol (0.005% w/v) + Naphazoline (0.05% w/v) + Phenylephrine (0.12% w/v)",
+          "packSize": "packet of 10 ml Eye Drop",
+          "price": "80.12",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f7ea93a13d8d418c8c29e61b281ac114.jpg",
+          "url": "https://www.1mg.com/drugs/andre-i-kul-eye-drop-156222"
+        },
+        {
+          "id": 185,
+          "letter": "A",
+          "name": "ASTHAlin 4 Tablet",
+          "formula": "Salbutamol (4mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "5.98",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lfhcfcet6dej3nyq9p7o.jpg",
+          "url": "https://www.1mg.com/drugs/asthalin-4-tablet-70804"
+        },
+        {
+          "id": 186,
+          "letter": "A",
+          "name": "Ascoril LS Junior Syrup",
+          "formula": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "121.87",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/857ae031e29f4dc3b4ff50c9167df98e.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-ls-junior-syrup-625287"
+        },
+        {
+          "id": 187,
+          "letter": "A",
+          "name": "Aciclovir 400 Tablet",
+          "formula": "Acyclovir (400mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "63.21",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/aciclovir-400-tablet-678845"
+        },
+        {
+          "id": 188,
+          "letter": "A",
+          "name": "A-Ret 0.1% Gel",
+          "formula": "Tretinoin (0.1% w/w)",
+          "packSize": "tube of 20 gm Gel",
+          "price": "224",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/20677d38d4554db7a49194f62d75a682.jpg",
+          "url": "https://www.1mg.com/drugs/a-ret-0.1-gel-279453"
+        },
+        {
+          "id": 189,
+          "letter": "A",
+          "name": "Azibact 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "125.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gtjmynhq8ngjwr6wsriy.jpg",
+          "url": "https://www.1mg.com/drugs/azibact-500-tablet-120163"
+        },
+        {
+          "id": 190,
+          "letter": "A",
+          "name": "Alfusin Tablet PR",
+          "formula": "Alfuzosin (10mg)",
+          "packSize": "strip of 15 Tablet pr",
+          "price": "338.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bdv6ssvviagsmrj57ucq.jpg",
+          "url": "https://www.1mg.com/drugs/alfusin-tablet-pr-41805"
+        },
+        {
+          "id": 191,
+          "letter": "A",
+          "name": "Ajaduo 25mg/5mg Tablet",
+          "formula": "Empagliflozin (25mg) + Linagliptin (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "194.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a72ea1c1a1eb45aa8990bcfc42f266f3.jpg",
+          "url": "https://www.1mg.com/drugs/ajaduo-25mg-5mg-tablet-479314"
+        },
+        {
+          "id": 192,
+          "letter": "A",
+          "name": "Alkasol Oral Solution Sugar Free",
+          "formula": "Disodium Hydrogen Citrate (1.4gm/5ml)",
+          "packSize": "bottle of 100 ml Oral Solution",
+          "price": "140.77",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fed7519993a8474cb4eb05d3446a43b3.jpg",
+          "url": "https://www.1mg.com/drugs/alkasol-oral-solution-sugar-free-541094"
+        },
+        {
+          "id": 193,
+          "letter": "A",
+          "name": "aCUTRet 20 Capsule",
+          "formula": "Isotretinoin (20mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "311",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b29f8bc085794716a02b96dfb65d9697.jpg",
+          "url": "https://www.1mg.com/drugs/acutret-20-capsule-33076"
+        },
+        {
+          "id": 194,
+          "letter": "A",
+          "name": "Actibile 300 Tablet",
+          "formula": "Ursodeoxycholic Acid (300mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "504.79",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/33306295ce504376968eb5e73827ab90.jpg",
+          "url": "https://www.1mg.com/drugs/actibile-300-tablet-121415"
+        },
+        {
+          "id": 195,
+          "letter": "A",
+          "name": "Acivir 800 DT Tablet",
+          "formula": "Acyclovir (800mg)",
+          "packSize": "strip of 5 tablet dt",
+          "price": "201.1",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sajhrn17dvfk7mejstwc.jpg",
+          "url": "https://www.1mg.com/drugs/acivir-800-dt-tablet-58313"
+        },
+        {
+          "id": 196,
+          "letter": "A",
+          "name": "Alerfix Total Tablet SR",
+          "formula": "Ambroxol (75mg) + Levocetirizine (5mg) + Montelukast (10mg)",
+          "packSize": "strip of 15 tablet sr",
+          "price": "326.33",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mktnad7psgcxkg1gvrzu.jpg",
+          "url": "https://www.1mg.com/drugs/alerfix-total-tablet-sr-329203"
+        },
+        {
+          "id": 197,
+          "letter": "A",
+          "name": "Amaryl MV 2mg Tablet SR",
+          "formula": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg)",
+          "packSize": "strip of 15 tablet sr",
+          "price": "266.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wx8l1xcbywv4fjedghxz.jpg",
+          "url": "https://www.1mg.com/drugs/amaryl-mv-2mg-tablet-sr-329225"
+        },
+        {
+          "id": 198,
+          "letter": "A",
+          "name": "Azithral 100 Liquid",
+          "formula": "Azithromycin (20mg/ml)",
+          "packSize": "bottle of 15 ml Oral Suspension",
+          "price": "56.95",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/22a9bbf235df41f2b121053bfab3dcca.jpg",
+          "url": "https://www.1mg.com/drugs/azithral-100-liquid-134412"
+        },
+        {
+          "id": 199,
+          "letter": "A",
+          "name": "Anaboom New Anaboom AD Anti-Dandruff Shampoo",
+          "formula": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v)",
+          "packSize": "bottle of 100 ml Shampoo",
+          "price": "426.56",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8c2c60ac2c8e477cb67ac729303fd783.jpg",
+          "url": "https://www.1mg.com/drugs/anaboom-new-anaboom-ad-anti-dandruff-shampoo-371811"
+        },
+        {
+          "id": 200,
+          "letter": "A",
+          "name": "Admenta 10 Tablet",
+          "formula": "Memantine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "229.69",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3bb03edd5b9e4301a303d4f1bbbb0c19.jpg",
+          "url": "https://www.1mg.com/drugs/admenta-10-tablet-17669"
+        },
+        {
+          "id": 201,
+          "letter": "A",
+          "name": "Andial 2mg Tablet",
+          "formula": "Loperamide (2mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "24.23",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fikcbzf2qr8wu2li48ky.jpg",
+          "url": "https://www.1mg.com/drugs/andial-2mg-tablet-16909"
+        },
+        {
+          "id": 202,
+          "letter": "A",
+          "name": "Ambrolite D Syrup",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "130.31",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wk0zoahgx67jp3tvrmdd.jpg",
+          "url": "https://www.1mg.com/drugs/ambrolite-d-syrup-653991"
+        },
+        {
+          "id": 203,
+          "letter": "A",
+          "name": "Azithral XL 200 Liquid",
+          "formula": "Azithromycin (200mg/5ml)",
+          "packSize": "bottle of 30 ml Oral Suspension",
+          "price": "109.28",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lc2oibbgz6wtwqjo0mtu.jpg",
+          "url": "https://www.1mg.com/drugs/azithral-xl-200-liquid-72666"
+        },
+        {
+          "id": 204,
+          "letter": "A",
+          "name": "Aprezo 30mg Tablet",
+          "formula": "Apremilast (30mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "333.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tmpmh4oawpqx56rgrcye.jpg",
+          "url": "https://www.1mg.com/drugs/aprezo-30mg-tablet-372596"
+        },
+        {
+          "id": 205,
+          "letter": "A",
+          "name": "Ascabiol Emulsion",
+          "formula": "Lindane (1% w/v) + Cetrimide (0.1% w/v)",
+          "packSize": "bottle of 60 ml Solution",
+          "price": "108.15",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/78bfb65e4a3e482c8d5aac7db7db5616.jpg",
+          "url": "https://www.1mg.com/drugs/ascabiol-emulsion-679784"
+        },
+        {
+          "id": 206,
+          "letter": "A",
+          "name": "Allegra Nasal Spray",
+          "formula": "Fluticasone Furoate (27.5mcg)",
+          "packSize": "bottle of 6 gm Nasal Spray",
+          "price": "449",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zjjnvsavavtsuj43sgrj.jpg",
+          "url": "https://www.1mg.com/drugs/allegra-nasal-spray-551613"
+        },
+        {
+          "id": 207,
+          "letter": "A",
+          "name": "Ache X Tablet",
+          "formula": "Chlorzoxazone (250mg) + Diclofenac (50mg) + Paracetamol (500mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "39.84",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ache-x-tablet-461377"
+        },
+        {
+          "id": 208,
+          "letter": "A",
+          "name": "Advent Forte 457mg Syrup Tangy Orange",
+          "formula": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml)",
+          "packSize": "bottle of 30 ml Syrup",
+          "price": "241.74",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ovjsp0jggthqvwzaix4y.jpg",
+          "url": "https://www.1mg.com/drugs/advent-forte-457mg-syrup-tangy-orange-63104"
+        },
+        {
+          "id": 209,
+          "letter": "A",
+          "name": "Ace-Proxyvon CR Tablet",
+          "formula": "Aceclofenac (200mg) + Rabeprazole (20mg)",
+          "packSize": "strip of 10 tablet cr",
+          "price": "178.59",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/saxavnwgzzhsqcsvwhm5.jpg",
+          "url": "https://www.1mg.com/drugs/ace-proxyvon-cr-tablet-209318"
+        },
+        {
+          "id": 210,
+          "letter": "A",
+          "name": "Ascoril Expectorant",
+          "formula": "Bromhexine (4mg) + Guaifenesin (100mg) + Menthol (1mg) + Salbutamol (2mg)",
+          "packSize": "bottle of 200 ml Expectorant",
+          "price": "133.13",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/ascoril-expectorant-655405"
+        },
+        {
+          "id": 211,
+          "letter": "A",
+          "name": "Alupent 10mg Tablet",
+          "formula": "Orciprenaline (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "49.22",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/alupent-10mg-tablet-25004"
+        },
+        {
+          "id": 212,
+          "letter": "A",
+          "name": "Aquaviron 40mg Capsule",
+          "formula": "Testosterone (40mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "241.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/83c60fc2c7ac4e0e8846bcbb6b71a3c5.jpg",
+          "url": "https://www.1mg.com/drugs/aquaviron-40mg-capsule-623290"
+        },
+        {
+          "id": 213,
+          "letter": "A",
+          "name": "atM 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "125.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/694505b5b943476fafac0dfdea71255a.jpg",
+          "url": "https://www.1mg.com/drugs/atm-500-tablet-392975"
+        },
+        {
+          "id": 214,
+          "letter": "A",
+          "name": "aMTas 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "strip of 30 tablets",
+          "price": "80.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gj8vsenrmyxcbotiryng.png",
+          "url": "https://www.1mg.com/drugs/amtas-5-tablet-399674"
+        },
+        {
+          "id": 215,
+          "letter": "A",
+          "name": "AD 100mg Capsule",
+          "formula": "Racecadotril (100mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "128.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hzbhqmy5ys9uymwqcvge.jpg",
+          "url": "https://www.1mg.com/drugs/ad-100mg-capsule-322414"
+        },
+        {
+          "id": 216,
+          "letter": "A",
+          "name": "ARG 9 Granules",
+          "formula": "Arginine (3gm) + Proanthocyanidin (75mg)",
+          "packSize": "packet of 5 gm Granules",
+          "price": "50.16",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hfusqcpklx42tgmipo5m.png",
+          "url": "https://www.1mg.com/drugs/arg-9-granules-147869"
+        },
+        {
+          "id": 217,
+          "letter": "A",
+          "name": "Aziwok 500 Tablet",
+          "formula": "Azithromycin (500mg)",
+          "packSize": "strip of 5 tablets",
+          "price": "125.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eggxbwx9ucgkktino5hn.jpg",
+          "url": "https://www.1mg.com/drugs/aziwok-500-tablet-327902"
+        },
+        {
+          "id": 218,
+          "letter": "A",
+          "name": "Alivher Tablet",
+          "formula": "Sildenafil (25mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "267.76",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qjjpgxczgwekq5sjiecu.jpg",
+          "url": "https://www.1mg.com/drugs/alivher-tablet-196931"
+        },
+        {
+          "id": 219,
+          "letter": "A",
+          "name": "Amlopres TL Tablet",
+          "formula": "Telmisartan (40mg) + Amlodipine (5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "138.35",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/13d6e964cc9d48008547074933ff6c14.jpg",
+          "url": "https://www.1mg.com/drugs/amlopres-tl-tablet-385132"
+        },
+        {
+          "id": 220,
+          "letter": "A",
+          "name": "Angicam-Beta Tablet",
+          "formula": "Amlodipine (5mg) + Atenolol (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "41.25",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2bda7a0bfaab4b23a6fa926f4c5319c8.jpg",
+          "url": "https://www.1mg.com/drugs/angicam-beta-tablet-371233"
+        },
+        {
+          "id": 221,
+          "letter": "A",
+          "name": "Alzolam 0.5 Tablet",
+          "formula": "Alprazolam (0.5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "48.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fb5cb3d0206845ee88fe152ef8c76902.jpg",
+          "url": "https://www.1mg.com/drugs/alzolam-0.5-tablet-42498"
+        },
+        {
+          "id": 222,
+          "letter": "A",
+          "name": "Alsita-MP 500 Tablet SR",
+          "formula": "Metformin (500mg) + Pioglitazone (15mg) + Sitagliptin (100mg)",
+          "packSize": "strip of 10 tablet sr",
+          "price": "190.75",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/498b866a9f864c67b86082ca96081e27.jpg",
+          "url": "https://www.1mg.com/drugs/alsita-mp-500-tablet-sr-850095"
+        },
+        {
+          "id": 223,
+          "letter": "A",
+          "name": "acTApro OD Tablet",
+          "formula": "Acotiamide (300mg)",
+          "packSize": "strip of 10 tablet er",
+          "price": "454.69",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gu0j2xdnswrscuqqxyrg.jpg",
+          "url": "https://www.1mg.com/drugs/actapro-od-tablet-633396"
+        },
+        {
+          "id": 224,
+          "letter": "A",
+          "name": "ASCoril plus Expectorant",
+          "formula": "Bromhexine (2mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (0.5mg/5ml) + Terbutaline (1.25mg/5ml)",
+          "packSize": "bottle of 120 ml Expectorant",
+          "price": "157.9",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8aed5cc28b524343adaf7cd05ecacc47.jpg",
+          "url": "https://www.1mg.com/drugs/ascoril-plus-expectorant-395727"
+        },
+        {
+          "id": 225,
+          "letter": "A",
+          "name": "acTApro Tablet",
+          "formula": "Acotiamide (100mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "112.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b5khqm1rk64c5qsurrso.jpg",
+          "url": "https://www.1mg.com/drugs/actapro-tablet-338098"
+        },
+        {
+          "id": 226,
+          "letter": "A",
+          "name": "Amlosafe 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "23.42",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qqxhq7ozu2ycpeqtaqms.jpg",
+          "url": "https://www.1mg.com/drugs/amlosafe-5-tablet-134523"
+        },
+        {
+          "id": 227,
+          "letter": "A",
+          "name": "AROraft Oral Suspension Mint Sugar Free",
+          "formula": "Calcium Carbonate (80mg) + Sodium Alginate (250mg) + Sodium Bicarbonate (133.5mg)",
+          "packSize": "bottle of 200 ml Oral Suspension",
+          "price": "225",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b3b9016084bc420abb0b6267ce22ad6a.jpg",
+          "url": "https://www.1mg.com/drugs/aroraft-oral-suspension-mint-sugar-free-865503"
+        },
+        {
+          "id": 228,
+          "letter": "A",
+          "name": "Aciclovir 800 Tablet",
+          "formula": "Acyclovir (800mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "376.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mhastzynbf93l6axsrjj.jpg",
+          "url": "https://www.1mg.com/drugs/aciclovir-800-tablet-732899"
+        },
+        {
+          "id": 229,
+          "letter": "A",
+          "name": "aztOR 40 Tablet",
+          "formula": "Atorvastatin (40mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "309.09",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tpftaywiuucfkpzjfqjk.jpg",
+          "url": "https://www.1mg.com/drugs/aztor-40-tablet-389544"
+        },
+        {
+          "id": 230,
+          "letter": "A",
+          "name": "Acuvin Tablet",
+          "formula": "Tramadol (37.5mg) + Paracetamol (325mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "258.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hkdjynozbysirsetlxlr.jpg",
+          "url": "https://www.1mg.com/drugs/acuvin-tablet-369140"
+        },
+        {
+          "id": 231,
+          "letter": "A",
+          "name": "Assurans Tablet",
+          "formula": "Sildenafil (20mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "187.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/k588aqbhpsv9f1vqhdp8.jpg",
+          "url": "https://www.1mg.com/drugs/assurans-tablet-116924"
+        },
+        {
+          "id": 232,
+          "letter": "A",
+          "name": "Althrocin 250 Tablet",
+          "formula": "Erythromycin (250mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "69.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lcjwkk5uzmekpclly23v.jpg",
+          "url": "https://www.1mg.com/drugs/althrocin-250-tablet-7749"
+        },
+        {
+          "id": 233,
+          "letter": "A",
+          "name": "Arip MT 5 Tablet",
+          "formula": "Aripiprazole (5mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "160.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2a9eb741197544ea9d817670b7d4ac3a.jpg",
+          "url": "https://www.1mg.com/drugs/arip-mt-5-tablet-455980"
+        },
+        {
+          "id": 234,
+          "letter": "A",
+          "name": "Alkacitral Liquid",
+          "formula": "Disodium Hydrogen Citrate (1.25gm/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "114.8",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d2qseph8ilepcpc72yev.jpg",
+          "url": "https://www.1mg.com/drugs/alkacitral-liquid-194679"
+        },
+        {
+          "id": 235,
+          "letter": "A",
+          "name": "Acitrom 3 Tablet",
+          "formula": "Acenocoumarol (3mg)",
+          "packSize": "Acitrom 3 Tablet\nPrescription Required\nstrip of 30 tablets\nAbbott\nAcenocoumarol (3mg)\n₹ 661.09\nADD",
+          "price": "661.09",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wyo56ppoeskakxmr62dl.jpg",
+          "url": "https://www.1mg.com/drugs/acitrom-3-tablet-114522"
+        },
+        {
+          "id": 236,
+          "letter": "A",
+          "name": "Arnipin 50 Tablet",
+          "formula": "Sacubitril (24mg) + Valsartan (26mg)",
+          "packSize": "strip of 14 tablets",
+          "price": "359.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/74f1deb3856840efa23567ffde76b9bc.jpg",
+          "url": "https://www.1mg.com/drugs/arnipin-50-tablet-828830"
+        },
+        {
+          "id": 237,
+          "letter": "A",
+          "name": "Amlopres 5 Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "Amlopres 5 Tablet\nPrescription Required\nstrip of 30 tablets\nCipla Ltd\nAmlodipine (5mg)\n₹ 80.01\nADD",
+          "price": "80.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qacl2i8m0qy7mpvgbx5l.jpg",
+          "url": "https://www.1mg.com/drugs/amlopres-5-tablet-530530"
+        },
+        {
+          "id": 238,
+          "letter": "A",
+          "name": "Ambrolite Syrup",
+          "formula": "Ambroxol (30mg/5ml)",
+          "packSize": "Ambrolite Syrup\nbottle of 100 ml Syrup\nTablets India Limited\nAmbroxol (30mg/5ml)\n₹ 99.84\nADD",
+          "price": "99.84",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6c8dc0cdee274469a1f59cdd1d54e500.jpg",
+          "url": "https://www.1mg.com/drugs/ambrolite-syrup-145273"
+        },
+        {
+          "id": 239,
+          "letter": "A",
+          "name": "Amox 500mg Capsule",
+          "formula": "Amoxycillin (500mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "56.7",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/amox-500mg-capsule-44812"
+        },
+        {
+          "id": 240,
+          "letter": "A",
+          "name": "Almox-CV 625 Tablet",
+          "formula": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 6 tablets",
+          "price": "115.23",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0c26b1d1b5d1464bb6f7a9f4cdbde6c0.jpg",
+          "url": "https://www.1mg.com/drugs/almox-cv-625-tablet-507201"
+        },
+        {
+          "id": 241,
+          "letter": "A",
+          "name": "Advent 625 Tablet",
+          "formula": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "195.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xi1stpt7yc64yg6vtwbx.jpg",
+          "url": "https://www.1mg.com/drugs/advent-625-tablet-58354"
+        },
+        {
+          "id": 242,
+          "letter": "A",
+          "name": "Aerocort Rotacap",
+          "formula": "Levosalbutamol (100mcg) + Beclometasone (100mcg)",
+          "packSize": "bottle of 60 rotacaps",
+          "price": "142.67",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/05bfa99299f74113bdf9cf9ad56c6bdf.jpg",
+          "url": "https://www.1mg.com/drugs/aerocort-rotacap-691832"
+        },
+        {
+          "id": 243,
+          "letter": "A",
+          "name": "Aten 25 Tablet",
+          "formula": "Atenolol (25mg)",
+          "packSize": "Aten 25 Tablet\nPrescription Required\nstrip of 14 tablets\nZydus Cadila\nAtenolol (25mg)\n₹ 31.6\nADD",
+          "price": "31.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hi7ytemgtlfikwmis2hk.jpg",
+          "url": "https://www.1mg.com/drugs/aten-25-tablet-134472"
+        },
+        {
+          "id": 244,
+          "letter": "A",
+          "name": "ASTHAlin Respirator Solution",
+          "formula": "Salbutamol (5mg)",
+          "packSize": "bottle of 15 ml Solution for inhalation",
+          "price": "16.38",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/30b425fa737d4a49a2a80c55208a8369.jpg",
+          "url": "https://www.1mg.com/drugs/asthalin-respirator-solution-165009"
+        },
+        {
+          "id": 245,
+          "letter": "A",
+          "name": "Amlovas-AT Tablet",
+          "formula": "Amlodipine (5mg) + Atenolol (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "132",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zaqkeofg5bdijtbessgf.jpg",
+          "url": "https://www.1mg.com/drugs/amlovas-at-tablet-63287"
+        },
+        {
+          "id": 246,
+          "letter": "A",
+          "name": "Amoxyclav 625 Tablet",
+          "formula": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 6 tablets",
+          "price": "115.28",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/avcp2gdxpbjfw1qmbl6i.jpg",
+          "url": "https://www.1mg.com/drugs/amoxyclav-625-tablet-140781"
+        },
+        {
+          "id": 247,
+          "letter": "A",
+          "name": "Ablung N Tablet",
+          "formula": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "216.2",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fa4a4b4836654798aff74f4b162c21fe.jpg",
+          "url": "https://www.1mg.com/drugs/ablung-n-tablet-849653"
+        },
+        {
+          "id": 248,
+          "letter": "A",
+          "name": "aztOR 20 Tablet",
+          "formula": "Atorvastatin (20mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "201.09",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/adivrlrr6l4y0pad7ppi.jpg",
+          "url": "https://www.1mg.com/drugs/aztor-20-tablet-389182"
+        },
+        {
+          "id": 249,
+          "letter": "A",
+          "name": "Anorelief Cream",
+          "formula": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
+          "packSize": "tube of 30 gm Rectal Cream",
+          "price": "184.6",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/35be3a7bfb084141a0bb0d2eeb30092a.jpg",
+          "url": "https://www.1mg.com/drugs/anorelief-cream-154432"
+        },
+        {
+          "id": 250,
+          "letter": "A",
+          "name": "Amoxyclav 375 Tablet",
+          "formula": "Amoxycillin (250mg) + Clavulanic Acid (125mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "290.5",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e7ccecc82ecb48ed9c5c5716ed4609bd.jpg",
+          "url": "https://www.1mg.com/drugs/amoxyclav-375-tablet-349279"
+        },
+        {
+          "id": 251,
+          "letter": "A",
+          "name": "Atropine Sulphate Injection",
+          "formula": "Atropine (0.6mg)",
+          "packSize": "N/A",
+          "price": "10.55",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/atropine-sulphate-injection-279787"
+        },
+        {
+          "id": 252,
+          "letter": "A",
+          "name": "AVil 50mg Tablet",
+          "formula": "Pheniramine (50mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "15.1",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/akklf1rjywkdirzxz3xy.jpg",
+          "url": "https://www.1mg.com/drugs/avil-50mg-tablet-27410"
+        },
+        {
+          "id": 253,
+          "letter": "A",
+          "name": "Alburel 20gm Solution for Infusion",
+          "formula": "Albumin (20% w/v)",
+          "packSize": "bottle of 100 ml Injection",
+          "price": "9749.88",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/71b014f90f314cda8d872d9948030db0.jpg",
+          "url": "https://www.1mg.com/drugs/alburel-20gm-solution-for-infusion-58367"
+        },
+        {
+          "id": 254,
+          "letter": "A",
+          "name": "Ambulax Tablet",
+          "formula": "Alprazolam (0.25mg) + Propranolol (20mg)",
+          "packSize": "strip of 15 tablets",
+          "price": "104.06",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hf0vjfk4lbfbaugakdrk.jpg",
+          "url": "https://www.1mg.com/drugs/ambulax-tablet-290104"
+        },
+        {
+          "id": 255,
+          "letter": "A",
+          "name": "Almox 500 Capsule",
+          "formula": "Amoxycillin (500mg)",
+          "packSize": "strip of 15 capsules",
+          "price": "117.85",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/74c0fcab370b4643a38a02073779bdf9.jpg",
+          "url": "https://www.1mg.com/drugs/almox-500-capsule-731848"
+        },
+        {
+          "id": 256,
+          "letter": "A",
+          "name": "Azulix 2 MF Tablet PR",
+          "formula": "Glimepiride (2mg) + Metformin (500mg)",
+          "packSize": "strip of 15 Tablet pr",
+          "price": "252",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7b1a3c6c220e4b9eb970a00268805d35.jpg",
+          "url": "https://www.1mg.com/drugs/azulix-2-mf-tablet-pr-333157"
+        },
+        {
+          "id": 257,
+          "letter": "A",
+          "name": "Amlip AT Tablet",
+          "formula": "Amlodipine (5mg) + Atenolol (50mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "82.35",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bf9d1e7b8dbf409984aa051c13afff9d.jpg",
+          "url": "https://www.1mg.com/drugs/amlip-at-tablet-161507"
+        },
+        {
+          "id": 258,
+          "letter": "A",
+          "name": "Augmentin ES Oral Suspension",
+          "formula": "Amoxycillin (600mg/5ml) + Clavulanic Acid (42.9mg/5ml)",
+          "packSize": "bottle of 50 ml Oral Suspension",
+          "price": "230.3",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c3e80f8520f943f891048f779f0c0177.jpg",
+          "url": "https://www.1mg.com/drugs/augmentin-es-oral-suspension-679156"
+        },
+        {
+          "id": 259,
+          "letter": "A",
+          "name": "Aztor Asp 75 Capsule",
+          "formula": "Atorvastatin (10mg) + Aspirin (75mg)",
+          "packSize": "strip of 10 capsules",
+          "price": "47.34",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/80659c0b232641fcb66bba4baf861ec0.jpg",
+          "url": "https://www.1mg.com/drugs/aztor-asp-75-capsule-67842"
+        },
+        {
+          "id": 260,
+          "letter": "A",
+          "name": "ALday 10mg Tablet",
+          "formula": "Cetirizine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "19.95",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "url": "https://www.1mg.com/drugs/alday-10mg-tablet-314338"
+        },
+        {
+          "id": 261,
+          "letter": "A",
+          "name": "Arpizol 5 Tablet",
+          "formula": "Aripiprazole (5mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "104.06",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dtrm9u6jymdc8g4pxzfw.jpg",
+          "url": "https://www.1mg.com/drugs/arpizol-5-tablet-45543"
+        },
+        {
+          "id": 262,
+          "letter": "A",
+          "name": "Airz FB Inhaler",
+          "formula": "Glycopyrrolate (9mcg) + Formoterol (4.80mcg) + Budesonide (160mcg)",
+          "packSize": "bottle of 120 MDI Inhaler",
+          "price": "840.93",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/17b0bb74e7c04790a9ac5256f82d5276.jpg",
+          "url": "https://www.1mg.com/drugs/airz-fb-inhaler-840814"
+        },
+        {
+          "id": 263,
+          "letter": "A",
+          "name": "alKOF junior Syrup",
+          "formula": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "packSize": "bottle of 100 ml Syrup",
+          "price": "121.4",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bf97cd1ee6a441e4bb0fa09257054acf.jpg",
+          "url": "https://www.1mg.com/drugs/alkof-junior-syrup-162496"
+        },
+        {
+          "id": 264,
+          "letter": "A",
+          "name": "Addna Tablet",
+          "formula": "Sodium Chloride (1gm)",
+          "packSize": "Addna Tablet\nstrip of 10 tablets\nSteadfast Medishield Pvt Ltd\nSodium Chloride (1gm)\n₹ 60\nADD",
+          "price": "60",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/78710e0cdc784ed090863c73d31c0527.jpg",
+          "url": "https://www.1mg.com/drugs/addna-tablet-636852"
+        },
+        {
+          "id": 265,
+          "letter": "A",
+          "name": "AMlong Tablet",
+          "formula": "Amlodipine (5mg)",
+          "packSize": "AMlong Tablet\nPrescription Required\nstrip of 30 tablets\nMicro Labs Ltd\nAmlodipine (5mg)\n₹ 80.01\nADD",
+          "price": "80.01",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/5e6187d190f446adb49269490a239e73.jpg",
+          "url": "https://www.1mg.com/drugs/amlong-tablet-792551"
+        },
+        {
+          "id": 266,
+          "letter": "A",
+          "name": "Axepta 10 Tablet",
+          "formula": "Atomoxetine (10mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "133.13",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yt3roqmxpnkpeanrzkng.jpg",
+          "url": "https://www.1mg.com/drugs/axepta-10-tablet-46170"
+        },
+        {
+          "id": 267,
+          "letter": "A",
+          "name": "Acenext P 100mg/325mg Tablet",
+          "formula": "Aceclofenac (100mg) + Paracetamol (325mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "65.48",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nejgl2opajrviyw9lxrc.jpg",
+          "url": "https://www.1mg.com/drugs/acenext-p-100mg-325mg-tablet-142715"
+        },
+        {
+          "id": 268,
+          "letter": "A",
+          "name": "Atorva 80 Tablet",
+          "formula": "Atorvastatin (80mg)",
+          "packSize": "strip of 10 tablets",
+          "price": "433.49",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mxaux6o3b2no3u7hk9vy.jpg",
+          "url": "https://www.1mg.com/drugs/atorva-80-tablet-46673"
+        },
+        {
+          "id": 269,
+          "letter": "A",
+          "name": "Asthakind-LS Junior Expectorant",
+          "formula": "Ambroxol (15mg) + Levosalbutamol (0.5mg) + Guaifenesin (50mg)",
+          "packSize": "bottle of 60 ml Expectorant",
+          "price": "83.66",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/23bf238362d5491b9a96a4e1a8e8bb97.jpg",
+          "url": "https://www.1mg.com/drugs/asthakind-ls-junior-expectorant-555599"
+        },
+        {
+          "id": 270,
+          "letter": "A",
+          "name": "Atropine 1% Eye Drop",
+          "formula": "Atropine (1% w/v)",
+          "packSize": "packet of 5 ml Eye Drop",
+          "price": "20.96",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cf532cecb59244af88423f5b30a9e5a1.jpg",
+          "url": "https://www.1mg.com/drugs/atropine-1-eye-drop-333053"
+        }
+      ]
+    }
+  ]
+}
