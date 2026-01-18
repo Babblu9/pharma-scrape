@@ -92,7 +92,8 @@ async function enrichMedicines() {
 
             const details = await page.evaluate(() => {
                 const getSectionContent = (headerText) => {
-                    const headers = Array.from(document.querySelectorAll('h2, h3, h4, div[class*="title"]'));
+                    // Broader selector to catch headers in H tags or divs with header-like classes
+                    const headers = Array.from(document.querySelectorAll('h2, h3, h4, h5, h6, div[class*="title"], div[class*="Title"], div[class*="header"], div[class*="Header"], div[class*="head"], div[class*="Head"]'));
                     const header = headers.find(h => h.innerText.trim().toUpperCase().includes(headerText.toUpperCase()));
                     if (header) {
                         let content = header.nextElementSibling;
@@ -106,7 +107,7 @@ async function enrichMedicines() {
                 };
 
                 const getSectionList = (headerText) => {
-                    const headers = Array.from(document.querySelectorAll('h2, h3, h4, div[class*="title"]'));
+                    const headers = Array.from(document.querySelectorAll('h2, h3, h4, h5, h6, div[class*="title"], div[class*="Title"], div[class*="header"], div[class*="Header"], div[class*="head"], div[class*="Head"]'));
                     const header = headers.find(h => h.innerText.trim().toUpperCase().includes(headerText.toUpperCase()));
                     if (header) {
                         let container = header.parentElement;
