@@ -257,6 +257,17 @@ async function enrichMedicines() {
     await browser.close();
     await mongoose.connection.close();
     console.log("🏁 Batch processing complete.");
+
+    // Auto-Loop Signal
+    const remainingCount = toProcess.length - batch.length;
+    if (remainingCount > 0) {
+        console.log(`🔄 Remaining medicines: ${remainingCount}. Signaling workflow to continue...`);
+        if (process.env.GITHUB_OUTPUT) {
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, "has_more=true\n");
+        }
+    } else {
+        console.log("✅ No matching medicines left to process.");
+    }
 }
 
 async function behaveLikeHuman(page) {

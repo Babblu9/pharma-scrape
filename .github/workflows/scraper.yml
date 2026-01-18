@@ -12,6 +12,7 @@ jobs:
 
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Checkout Code
@@ -30,6 +31,7 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Run Scraper
+        id: scraper
         env:
           MONGODB_URI: ${{ secrets.MONGODB_URI }}
         run: node enrichMedicines.js
@@ -39,3 +41,9 @@ jobs:
         with:
           commit_message: "🤖 Scraper update: enriched more medicines"
           file_pattern: 'medicines_enriched.json'
+
+      - name: Trigger Next Batch
+        if: steps.scraper.outputs.has_more == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run scraper.yml
