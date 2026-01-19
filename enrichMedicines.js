@@ -210,7 +210,33 @@ async function enrichMedicines() {
                     return [];
                 };
 
+                const getHeaderDetail = (labelText) => {
+                    const labels = Array.from(document.querySelectorAll('div[class*="DrugHeader__meta-title"]'));
+                    const label = labels.find(l => l.innerText.trim().toUpperCase() === labelText.toUpperCase());
+                    if (label && label.nextElementSibling) {
+                        const valueBox = label.nextElementSibling;
+                        const link = valueBox.querySelector('a');
+                        return {
+                            text: valueBox.innerText.trim(),
+                            url: link ? link.href : null
+                        };
+                    }
+                    return null;
+                };
+
+                const rxEl = document.querySelector('div[class*="PrescriptionRequired__prescription-required"]');
+                const prescriptionRequired = !!rxEl;
+
+                const marketerInfo = getHeaderDetail('MARKETER');
+                const saltInfo = getHeaderDetail('SALT COMPOSITION');
+                const storageInfo = getHeaderDetail('STORAGE');
+
                 return {
+                    prescriptionRequired,
+                    storage: storageInfo ? storageInfo.text : null,
+                    marketer: marketerInfo ? { name: marketerInfo.text, url: marketerInfo.url } : null,
+                    saltComposition: saltInfo ? { name: saltInfo.text, url: saltInfo.url } : null,
+
                     introduction: getSectionContent('PRODUCT INTRODUCTION'),
                     uses: getSectionList('Uses of'),
                     benefits: getSectionContent('Benefits of'),

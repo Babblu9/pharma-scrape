@@ -27,6 +27,18 @@ const MedicineSchema = new mongoose.Schema({
     price: String,
     image: String,
 
+    // New Fields
+    prescriptionRequired: { type: Boolean, default: false },
+    storage: String,
+    marketer: {
+        name: String,
+        url: String
+    },
+    saltComposition: {
+        name: String,
+        url: String
+    },
+
     // Rich Details
     introduction: String,
     uses: [String],
